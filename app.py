@@ -3,9 +3,50 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 import matplotlib.pyplot as plt
-from huggingface_hub import hf_hub_download
+from openai import OpenAI
 
-HUGGING_FACE_API_KEY = st.secrets["HUGGING_FACE_API_KEY"]
+temperature=0.4
+frequency_penalty=0.0
+
+client = OpenAI(
+    api_key=st.secrets["OPENAI_API"]
+)
+
+if "openai_model" not in st.session_state:
+    st.session_state["openai_model"] = "gpt-4"
+
+if "messages" not in st.session_state:
+    st.session_state.messages = []
+
+def convert_dataframe_to_prompt(df, title):
+    prompt = f"This data contains data about {title}:\n"
+    for column in df.columns:
+        prompt += f"{column}: \n"
+        for value in df[column]:
+            prompt += f"{value} "
+        prompt += "\n"
+    prompt += "\n\n"
+    return prompt
+
+
+
+def generate_gpt4_response(prompt, api_key):
+    client = OpenAI(api_key=api_key)
+    gpt_assistant_prompt = f"You are a professional tour firms / agents / operators manager!"
+
+    message=[{"role": "assistant", "content": gpt_assistant_prompt}, {"role": "user", "content": prompt}]
+
+    st.session_state.messages.append({"role": "assistant", "content": gpt_assistant_prompt})
+    st.session_state.messages.append({"role": "user", "content": prompt})
+
+    response = client.chat.completions.create(
+        model=st.session_state.openai_model,
+        messages = message,
+        temperature=temperature,
+        frequency_penalty=frequency_penalty
+    )
+
+    return response.choices[0].message.content
 
 st.set_page_config(
     layout="wide",
@@ -35,9 +76,15 @@ search_button = st.button("🔍 Search")
 if search_button:
     st.subheader("Search Results")
     try:
-        filtered_agents = tour_agents_df[tour_agents_df['operator_name'].str.contains(search_query, case=False)]
-        st.dataframe(filtered_agents)
+        tour_prompt = ""
+        if len(st.session_state.messages):
+            tour_prompt = convert_dataframe_to_prompt(tour_agents_df, "Tour Agents")
+            tour_prompt += convert_dataframe_to_prompt(tour_operators_df, "Tour Operators")
+        response = generate_gpt4_response(search_query + tour_prompt, st.secrets["OPENAI_API"])
+        st.markdown(response)
+
     except Exception as e:
+        print('Error:', e)
         st.info("No results found. Please try again.")
 
 colA, colB = st.columns(2)
@@ -103,6 +150,12 @@ def main():
     bar_chart_by_city(tour_agents_df, 'Agents')
     st.subheader('Tour Operators by City')
     bar_chart_by_city(tour_operators_df, 'Operators')
+
+    # Tables for Tour Agents and Tour Operators
+    st.subheader('Tour Agents')
+    st.dataframe(tour_agents_df)
+    st.subheader('Tour Operators')
+    st.dataframe(tour_operators_df)
 
 if __name__ == "__main__":
     main()
