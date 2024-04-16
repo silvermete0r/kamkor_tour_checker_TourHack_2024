@@ -75,14 +75,15 @@ search_button = st.button("🔍 Search")
 # Check Reliability
 if search_button:
     st.subheader("Search Results")
-    try:
-        tour_prompt = convert_dataframe_to_prompt(tour_agents_df[:50], "Tour Agents")
-        response = generate_gpt4_response(search_query + tour_prompt, st.secrets["OPENAI_API"])
-        st.markdown(response)
+    with st.spinner('⚙ Searching...'):
+        try:
+            tour_prompt = convert_dataframe_to_prompt(tour_agents_df[:50], "Tour Agents")
+            response = generate_gpt4_response(search_query + tour_prompt, st.secrets["OPENAI_API"])
+            st.markdown(response)
 
-    except Exception as e:
-        print('Error:', e)
-        st.info("No results found. Please try again.")
+        except Exception as e:
+            print('Error:', e)
+            st.info("No results found. Please try again.")
 
 colA, colB = st.columns(2)
 with colA:
