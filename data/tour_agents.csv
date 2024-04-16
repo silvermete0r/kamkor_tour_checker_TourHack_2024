@@ -1,0 +1,573 @@
+number,name,address,phone,gos_reestr_code,website,IIN,BIN,gosreestr_link,statsnet_link,city,system_score,Good,Bad,user_score
+TK-0002,ТурСалон,"Астана пр. Сарыарка 17, офис 20",7 (701) 530-39-77,ТА-653,http://www.tursalon.kz,790808403521,,https://www.goszakup.gov.kz/ru/registry/show_supplier/483744,https://statsnet.co/search/kz/ТурСалон,Астана,100,,,3.22
+TK-0004,Туристическая фирма Идеальный вариант,Павлодар ул. Ак. Сатпаева 174 офис 1,8 (707) 7039707,ТА №0043 от 3 августа 2007 г.,http://www.i-v.kz,,,,https://statsnet.co/search/kz/Туристическая%20фирма%20Идеальный%20вариант,Павлодар,77,,,4.37
+TK-0008,Salem Alem tour,"Алматы мкр. Абая, ул. Алтын Орда, 6/45 корпус 2",7 (701) 455-43-43,TA-440 ,,,,,https://statsnet.co/search/kz/Salem%20Alem%20tour,Алматы,67,,,4.43
+TK-009,Гелиос-Тур,"Астана ул.Сарайшык, д.11/1, ВП3",+7 (717) 257-66-00,ТА-199,http://www.geliostour.kz,,150740012246,https://www.goszakup.gov.kz/ru/registry/show_supplier/129786,https://statsnet.co/search/kz/Гелиос-Тур,Астана,100,,,2.22
+TK-0011,КЛУБ ПУТЕШЕСТВЕННИКОВ,"Костанай ул.Баймагамбетова 205,оф.4",7 (705) 225-48-64,ТА-1208 ,,,160140020029,https://www.goszakup.gov.kz/ru/registry/show_supplier/459742,https://statsnet.co/search/kz/КЛУБ%20ПУТЕШЕСТВЕННИКОВ,Костанай,90,,,4.01
+TK-0013,PARADISE TRAVELSt,"Усть-Каменогорск ул.Казахстан,159",7 (701) 322-46-04,ТА-247,http://www.paradise-travel.kz,,,,https://statsnet.co/search/kz/PARADISE%20TRAVELSt,Усть-Каменогорск,77,,,3.13
+TK-0014,"Спектр Тур
+","Алматы Мауленова 92 офис 226
+","7 (777) 227-32-43
+","ТА-1226
+","http://sptr.kz
+",,,,https://statsnet.co/search/kz/Спектр%20Тур,Алматы,77,,,4.39
+TK-0015,Туристическая компания Travel House,"Караганда пр. Н.Назарбаева, 12, оф.1",8 (721) 240-01-22,ТА-509,http://www.travelhouse.kz,,,,https://statsnet.co/search/kz/Туристическая%20компания%20Travel%20House,Караганда,77,,,3.28
+TK-0016,Туристическое агенство SunRiseТур,Актобе ул. Аз Наурыз 31,7 (707) 690-88-68,KZ66TWG00000153,,,,,https://statsnet.co/search/kz/Туристическое%20агенство%20SunRiseТур,Актобе,67,,,4.12
+TK-0017,Bueno tour,Костанай ул.Дощанова д.39 оф. 1,7 (714) 291-77-85,ТА-458 от 01 ноября 2017,https://www.instagram.com/bueno_tour/,,,,https://statsnet.co/search/kz/Bueno%20tour,Костанай,77,,,1.56
+TK-0019,ARTi BELON,Алматы ул. Шагабутдинова 73 (уг. ул. Толе Би),8 (727) 390-18-98,ТА-110,http://www.artibelon.kz,,,,https://statsnet.co/search/kz/ARTi%20BELON,Алматы,77,,,1.91
+TK-0020,Meridian Travel&Tourism,"Астана Абай 13,офис 908 Isker",87771959270,ТА-383 от 19.04.2017,http://www.turpoisk.kz,,,,https://statsnet.co/search/kz/Meridian%20Travel&Tourism,Астана,77,,,3.82
+TK-0021,ТУРАГЕНТСТВО SUNRAYS,"Астана Улица Ыкылас Дукенулы, 9​",+7 (777) 306-10-20,KZ09TWG00000209,,,,,https://statsnet.co/search/kz/ТУРАГЕНТСТВО%20SUNRAYS,Астана,67,,,1.62
+TK-0023,Sayat Travel,"Астана ул. Габдуллина 18, ЖК 7 Континент, Блок Е",8 (707) 255-55-44,ТА-376,http://www.sayat-travel.kz,,,,https://statsnet.co/search/kz/Sayat%20Travel,Астана,77,,,3.97
+TK-0024,Nils Travel,Алматы ул. Зенкова 59,8 (727) 220-38-15,"ТА-502, 0533522",http://www.nils.kz,,,,https://statsnet.co/search/kz/Nils%20Travel,Алматы,77,,,3.61
+TK-0027,AlGri travel,"Алматы Мкр. Аксай-1, дом 15 б, офис 102",8 (727) 381-18-60,ТА-357,http://algritravel.kz,,,,https://statsnet.co/search/kz/AlGri%20travel,Алматы,77,,,1.88
+TK-0030,ELAI TOURS ,"Алматы БЦ Милано, АО НК КазАвтоЖол",7 (727) 271-01-67,ТА-375 от 08.07.2010,,,,,https://statsnet.co/search/kz/ELAI%20TOURS,Алматы,67,,,2.51
+TK-0032,Колорит,"Алматы Желтоксан, 89",7 (727) 279-48-84,ТА-1760 от 11.11.2013,,,210340022193,https://www.goszakup.gov.kz/ru/registry/show_supplier/473772,https://statsnet.co/search/kz/Колорит,Алматы,90,,,2.1
+TK-0033,Казах Ели Тревел ,"Актау 8 мкр, 39А здание БЦ Элит Альянс, 112 офис",8 (775) 383-67-89,ТА-236,,,160340004738,https://www.goszakup.gov.kz/ru/registry/show_supplier/626460,https://statsnet.co/search/kz/Казах%20Ели%20Тревел,Актау,90,,,3.09
+TK-0035,САЯТ-ПАВЛОДАР,"Павлодар ул.Лермонтова 96/1, 38",7 (718) 230-15-15,ТА-0057,,,991140002204,https://www.goszakup.gov.kz/ru/registry/show_supplier/119391,https://statsnet.co/search/kz/САЯТ-ПАВЛОДАР,Павлодар,90,,,2.04
+TK-0040,Zhanar Travel,Караганда пр. Н.Абдирова 36/4,7 (721) 251-14-54,ТА-1382 от 7 февраля 2013,http://www.znanar.kz,,,,https://statsnet.co/search/kz/Zhanar%20Travel,Караганда,77,,,1.9
+TK-0041,TRAVELMANIA,"Караганда Пр. Бухар-Жырау, 49/6",7 (721) 291-20-10,TA-1659,,,,,https://statsnet.co/search/kz/TRAVELMANIA,Караганда,67,,,3.82
+TK-0042,Айдана Тур Шымкент,Шымкент ул. Кунаева 36,8 (725) 239-44-39,ТА-380 от 13.04.17,http://aydanatour.kz,,,,https://statsnet.co/search/kz/Айдана%20Тур%20Шымкент,Шымкент,77,,,2.76
+TK-0044,Алеста тур,"Астана УЛ  ТАШЕНОВА 9, НП5 ",8 (717) 222-34-11,ТА-193 ОТ 11.09.2015,http://www.alesta.kz ,,,,https://statsnet.co/search/kz/Алеста%20тур,Астана,77,,,2.92
+TK-0045,Агентство Riviera-tour ,Павлодар ул.Торайгырова 109А,7 (701) 531-71-10,ТА-140 от 27.10.2009,http://Riviera.kz,,,,https://statsnet.co/search/kz/Агентство%20Riviera-tour,Павлодар,77,,,2.69
+TK-0046,Туристическое агентство Гранд-тур,Экибастуз ул.Естая Беркимбаева 95/1 офис 3,8 (701) 781-82-97,ТА-0006 от 13.10.2005,http://ekibastuz.tez-tour.com,,,,https://statsnet.co/search/kz/Туристическое%20агентство%20Гранд-тур,Экибастуз,77,,,1.68
+TK-0047,Gid Travel,Алматы ул Гоголя 120/20 оф 3.,7 (775) 338-99-99,ТА-316 от 14.10.2016,http://www.gidtravel.kz,,,,https://statsnet.co/search/kz/Gid%20Travel,Алматы,77,,,1.73
+TK-0048,Eco Aria Trade,"Алматы Ауэзовский район,микрорайон жетысу-4,дом 6,кв 9",8 (717) 381-62-04,KZ06UWG00000795,,,,,https://statsnet.co/search/kz/Eco%20Aria%20Trade,Алматы,67,,,2.33
+TK-0049,Лавка странствий,Костанай пр. Абая д.166 вп. 17,7 (714) 253-35-33,KZ45UWG00000578,http://lavkastran.kz,,,,https://statsnet.co/search/kz/Лавка%20странствий,Костанай,77,,,3.76
+TK-0050,ПОЕХАЛИ С НАМИ Сеть туристических агентств,Алматы ул. Курмангазы 111/ул. Байтурсынова 95 кабинет 109,8 (727) 349-55-40,ТА-304,http://poehalisnami.kz,,,,https://statsnet.co/search/kz/ПОЕХАЛИ%20С%20НАМИ%20Сеть%20туристических%20агентств,Алматы,77,,,2.0
+TK-0052,Clever-Tour,Алматы Зенкова 59 офис 135,7 (705) 333-23-63,KZ39UWG00001365,http://www.clevertour.kz,,,,https://statsnet.co/search/kz/Clever-Tour,Алматы,77,,,1.61
+TK-0053,Агентство Фараб,Алматы пр. Абая 59,8 (727) 267-11-87,KZ55UWG00001465,,,,,https://statsnet.co/search/kz/Агентство%20Фараб,Алматы,67,,,3.18
+TK-0054,"West Services Ltd.
+","Актау 14 мкр., БЦ Звезда Актау,421 каб, 4 этаж правое крыло
+","7 (701) 408-58-11
+","KZ80UWG00000530
+","http://
+",,,,https://statsnet.co/search/kz/West%20Services%20Ltd.,Актау,77,,,3.71
+TK-0055,Авиа Нина-Тур,Караганда ул. Ерубаева 49-23,7 (721) 247-96-56,ТА-2146 от 08.08.2014 г,,,,,https://statsnet.co/search/kz/Авиа%20Нина-Тур,Караганда,67,,,2.74
+TK-0056,NICE TRIP,Алматы ул.Кабанбай батыра 91/125,8 (701) 799-95-19,ТА-465 от 30.09.2010,http://www.nicetrip.kz,,,,https://statsnet.co/search/kz/NICE%20TRIP,Алматы,77,,,3.98
+TK-0057,SUNRISE TRAVEL,"Астана Проспект Қабанбай Батыр, дом 11, ВП 191",7 (707) 775-30-93,KZ42UWG00001408,http://www.sunrisetour.kz,,,,https://statsnet.co/search/kz/SUNRISE%20TRAVEL,Астана,77,,,3.71
+TK-0058,Авиатурагентство ALEKS Tour,"Степногорск 3 мкр., здание 80 (ТД АРМОНД)",8 (716) 456-77-99,ТА-1844 от 31.01.2014,,,,,https://statsnet.co/search/kz/Авиатурагентство%20ALEKS%20Tour,Степногорск,67,,,4.14
+TK-0060,Турагентство Круиз,Уральск ул.Ихсанова 109,7 (777) 520-60-11,ТА-0034945 от 30.03.2007 ,http://Отсутствует,,,,https://statsnet.co/search/kz/Турагентство%20Круиз,Уральск,77,,,4.09
+TK-0062,BeStar Travel,"Алматы ул. Кабанбай батыра, 55",7 (727) 355-05-25,ТА 204 от 08/12/2015 ,http://www.bestar.kz,,,,https://statsnet.co/search/kz/BeStar%20Travel,Алматы,77,,,2.29
+TK-0064,"Турагентство  Marine Tour.com 
+","Актау 13 мкр., зд. 25 а - отель «Grand Victory», «Пассаж», 1 этаж.
+","7 (777) 730-01-13
+","ТА-841
+","http://MARINE-TOUR.KZ
+",,,,https://statsnet.co/search/kz/Турагентство%20%20Marine%20Tour.com,Актау,77,,,2.92
+TK-0065,Evisa Travel,"Алматы Маркова 43, уг. ул Тимирязева, офис 135",8 (727) 328-70-80,KZ89TWG00000321,https://www.evisa.kz,,,,https://statsnet.co/search/kz/Evisa%20Travel,Алматы,77,,,3.06
+TK-0066,Пятый сезон,Астана ул. Мангилик ел 20/2 БЦ Азамат офис 703,7 (701) 272-03-50,KZ30UWG00001527,http://5seasons.kz,,,,https://statsnet.co/search/kz/Пятый%20сезон,Астана,77,,,2.85
+TK-0067,СМГП КАЗАХСТАН,"Алматы Бостандыкский район,площадь республики,пр Н.Назарбаев,13/195,кв 310",8 (701) 511-87-90,ТА-832 № 0181838 от 15.09.2011,http://www.smgp.kz,,,,https://statsnet.co/search/kz/СМГП%20КАЗАХСТАН,Алматы,77,,,4.45
+TK-0068,"Time Fly Travel
+","Алматы Жамбыла 162 офис 2
+","87071782164
+","KZ59UWG00001684
+","http://www.tft.kz
+",,,,https://statsnet.co/search/kz/Time%20Fly%20Travel,Алматы,77,,,1.6
+TK-0069,Авиатурагентство Fantasy Travel,"Шымкент Улица Айбергенова 1, ​1 этаж​",87016168588,TA-259,http://fantasy-travel.kz/,,,,https://statsnet.co/search/kz/Авиатурагентство%20Fantasy%20Travel,Шымкент,77,,,1.85
+TK-0070,PALMA TOUR,"Семей проспект Шакарима, 54",7 (777) 366-79-05,ТА-295 от 11.05.2010,http://www.palma-tour.ru,,,,https://statsnet.co/search/kz/PALMA%20TOUR,Семей,77,,,2.01
+TK-0071,Nurkhan travel,"Алматы улица Курмангазы, 48 А, офис 101",+77272617177,KZ93UWG00001460,http://www.nht.kz,,,,https://statsnet.co/search/kz/Nurkhan%20travel,Алматы,77,,,2.76
+TK-0072,Bubble Travel,Шымкент пр.Тауке хана 82,7 (778) 223-37-37,KZ32UWG00000521,,,,,https://statsnet.co/search/kz/Bubble%20Travel,Шымкент,67,,,1.72
+TK-0074,AVIA HASS TRAVEL,Алматы ул. Рубинштейна 21А,8 (701) 503-90-70,ТА-682,http://www.hass-travel.kz,,,,https://statsnet.co/search/kz/AVIA%20HASS%20TRAVEL,Алматы,77,,,4.26
+TK-0076,AYA Travel Aktau,"Актау 19 мкр, БЦ «Ерхан», 1-этаж, офис 101",8 (702) 900-66-32,KZ17UWG00001664,,,,,https://statsnet.co/search/kz/AYA%20Travel%20Aktau,Актау,67,,,1.67
+TK-0077,агентство Капитан,"Караганда Ерубаева, 27",8 (721) 242-07-42,ТА-1397,,,,,https://statsnet.co/search/kz/агентство%20Капитан,Караганда,67,,,3.84
+TK-0080,Туристская компания Жетiсу,"Алматы Бостандыкский район,ул.Габдуллина,дом 55,кв 3",7 (727) 273-29-21,серия АА-13 № 0003313,http://www.zhetisu.kz,,,,https://statsnet.co/search/kz/Туристская%20компания%20Жетiсу,Алматы,77,,,2.95
+TK-0082,GO Travel,"Астана Иманова 19, офис 501",8 (701) 646-06-88,KZ44UWG00001081,http://www.gotravel.com.kz,,,,https://statsnet.co/search/kz/GO%20Travel,Астана,77,,,2.31
+TK-0084,Турфирма АнараКомпани-ПВ,Павлодар ул.Торайгырова 79-1,7 (718) 255-65-35,ТА-084,,,,,https://statsnet.co/search/kz/Турфирма%20АнараКомпани-ПВ,Павлодар,67,,,1.63
+TK-0088,Аружан-агент,"Астана Кабанбай батыра 40, офис 9А",8 (717) 245-20-20,ТА-408,,,,,https://statsnet.co/search/kz/Аружан-агент,Астана,67,,,4.01
+TK-0089,Karavan Tour,Шымкент Ул Токаева. 27 офис 408,8 (776) 328-22-14,ТА-039 от 30.03.2015,,,,,https://statsnet.co/search/kz/Karavan%20Tour,Шымкент,67,,,3.82
+TK-0090,Ак Жол Tour,"Алматы Алмалинский район,ул.Досмухамедова дом 115",7 (727) 346-60-70,ТА - 146 от 27.05.2015 г.,http://akzholtour.kz/,,,,https://statsnet.co/search/kz/Ак%20Жол%20Tour,Алматы,77,,,3.66
+TK-0091,SARY-ARKA TRAVEL,"Караганда Бухар-жырауский район,уштобинский с.о.,с.уштобе,учетный квартал 067,здание 25",7 (705) 751-10-01,ТА-1621,,,,,https://statsnet.co/search/kz/SARY-ARKA%20TRAVEL,Караганда,67,,,3.95
+TK-0093,"vLeto Travel
+","Шымкент ул. Гагарина 105 А
+","7 (705) 717-86-86
+","KZ74UWG00001802
+","http://
+",,,,https://statsnet.co/search/kz/vLeto%20Travel,Шымкент,77,,,2.81
+TK-0094,Туристическое агентство Happy Time,"Астана ул.Иманова 41, офис 26",8 (702) 000-72-30,№ KZ20UWG00001804,,,,,https://statsnet.co/search/kz/Туристическое%20агентство%20Happy%20Time,Астана,67,,,3.22
+TK-0095,Family Land,Павлодар ул.М.Исиналиева 1-211,7 (707) 201-28-01,ТА-106,,,,,https://statsnet.co/search/kz/Family%20Land,Павлодар,67,,,2.49
+TK-0096,TRAVEL STORY,"Алматы ул. Джумалиева 86, угол ул. Толе би, БЦ Гранд Азия корпус B, 7 этаж, 75 офис",87072717438,KZ69UWG00001795,http://travel-story.kz/,,,,https://statsnet.co/search/kz/TRAVEL%20STORY,Алматы,77,,,4.23
+TK-0097,ARCS Kazakhstan,Алматы Сейфуллина 500,7 (727) 346-86-40,ТА-547 от 27.12.2010,http://www.arcs.travel,,,,https://statsnet.co/search/kz/ARCS%20Kazakhstan,Алматы,77,,,1.91
+TK-0100,NATOUR,"Астана юр: Улы дала 36, факт: Ермекова 1/1А, ЖК Арай-3, НП-25",7 (775) 167-77-16,KZ32UWG00001103,http://sunbathetravel.kz,,,,https://statsnet.co/search/kz/NATOUR,Астана,77,,,1.81
+TK-0101,"Prestige Tours
+","Шымкент пр.Момышулы 19
+","+7 7252 211000
+","№ KZ23UWG00001847
+","http//trip.prestigetours.kz
+",,,,https://statsnet.co/search/kz/Prestige%20Tours,Шымкент,77,,,4.47
+TK-0102,Чемодан №8,"Астана пр.Сарыарка 3/1,офис 301",7 (705) 423-27-86,KZ85UWG00001410,https://chemodan.kz/,,,,https://statsnet.co/search/kz/Чемодан%20№8,Астана,77,,,4.47
+TK-0104,Туристическое агентство «Вокруг Света»,"Тараз ул. Казыбек би 111 (БЦ Глобус), 2 этаж, 210 офис",7 (705) 845-50-53,KZ00UWG00000903,,,,,https://statsnet.co/search/kz/Туристическое%20агентство%20«Вокруг%20Света»,Тараз,67,,,3.14
+TK-0105,Чемодан Актобе №4,Актобе ул. Есет Батыра 116г,8 (771) 310-74-54, KZ30UWG00000945,https://chemodan.kz/,,,,https://statsnet.co/search/kz/Чемодан%20Актобе%20№4,Актобе,77,,,2.15
+TK-0106,Турфирма SATTI SAPAR Tours&Travel ,"Астана ул.Иманова 16,офис 7",+7 7172 696 008,ТА-432 от 02.08.2017 г.,http://sattisapar.kz/,,,,https://statsnet.co/search/kz/Турфирма%20SATTI%20SAPAR%20Tours&Travel,Астана,77,,,2.09
+TK-0107,Сеть Турагентств ЧЕМОДАН,Алматы ул.Шевченко 14 б,8 (727) 346-82-20,KZ31UWG00000636,https://chemodan.kz/,,,,https://statsnet.co/search/kz/Сеть%20Турагентств%20ЧЕМОДАН,Алматы,77,,,3.08
+TK-0108,"Чемодан Алматы №1
+","Алматы Шевченко 146 
+","8 (727) 346-82-20
+","KZ40UWG00001153
+","https://chemodan.kz/
+",,,,https://statsnet.co/search/kz/Чемодан%20Алматы%20№1,Алматы,77,,,3.73
+TK-0109,"Чемодан Алматы №2
+","Алматы Шевченко 146 
+","8 (727) 346-82-20
+","KZ37UWG00001207
+","https://chemodan.kz/
+",,,,https://statsnet.co/search/kz/Чемодан%20Алматы%20№2,Алматы,77,,,1.63
+TK-0111,GETSUN TRAVEL,Алматы Шевченко 157/6,8 (702) 672-65-91,KZ76UWG00001184,,,,,https://statsnet.co/search/kz/GETSUN%20TRAVEL,Алматы,67,,,2.17
+TK-0112,ТОО “Enjoy Travel”,Астана Акбар 4,87015137243,KZ29UWG00001157,,,,,https://statsnet.co/search/kz/ТОО%20“Enjoy%20Travel”,Астана,67,,,1.67
+TK-0113,Ostrovok tour,"Алматы пр. Абая 202/1, оф. 6, этаж 2",7 (707) 838-11-89,KZ86UWG00000228,http://www.ostrovok-tour.kz,,,,https://statsnet.co/search/kz/Ostrovok%20tour,Алматы,77,,,1.89
+TK-0114,ASTANA GLOBAL TRAVEL,"Астана ул. Достык, 1 ВП-2",7 (701) 702 88 88,KZ75UWG00001881,http://globaltravel.kz,,,,https://statsnet.co/search/kz/ASTANA%20GLOBAL%20TRAVEL,Астана,77,,,4.0
+TK-0116,Глобус Тур,"Уральск пр-т Евразия, 103, ТД Аквариум, 2 этаж",7 (705) 145-59-85,KZ14UWG00001136,,,,,https://statsnet.co/search/kz/Глобус%20Тур,Уральск,67,,,3.4
+TK-0117,"HOLIDAY QAZAQSTAN
+","Актобе Абылхаир хана 69-39
+","8 (776) 744-66-44
+","KZ33UWG00000115
+","http://
+",,,,https://statsnet.co/search/kz/HOLIDAY%20QAZAQSTAN,Актобе,77,,,1.84
+TK-0118,Euro Asien Express-A,Астана переулок Баглан 5,8 (717) 232-00-06,ТА-1695 от 02.09.2013 года,http://www.eae.kz,,,,https://statsnet.co/search/kz/Euro%20Asien%20Express-A,Астана,77,,,3.77
+TK-0119,Europe Asia Travel,"Алматы Проспект Достык, 95Б​",+7 (727) 347‒00‒01,KZ76UWG00001572,http://www.eatravel.kz,,,,https://statsnet.co/search/kz/Europe%20Asia%20Travel,Алматы,77,,,3.47
+TK-0121,Бархатный сезон,"Астана ул. Агыбай батыра, 4",7 (717) 291-86-00,ТА-192 от 10.09.2015 г.,http://www.barhatseason.kz,,,,https://statsnet.co/search/kz/Бархатный%20сезон,Астана,77,,,1.86
+TK-0122,ТУРАГЕНТСТВО «LE MONDE TRAVEL»»,"Астана Ул. ДОСТЫК, Д.1",8 (777) 777-01-17,KZ84UWG00000458,,,,,https://statsnet.co/search/kz/ТУРАГЕНТСТВО%20«LE%20MONDE%20TRAVEL»»,Астана,67,,,2.2
+TK-0124,Поларис Трэвел,"Алматы ул. Чайковского 206, оф. 19",7 (727) 399-83-69,KZ89UWG00001338,http://www.polaristravel.kz,,,,https://statsnet.co/search/kz/Поларис%20Трэвел,Алматы,77,,,3.73
+TK-0125,Happy Travel.kz,Алматы Мамыр 2 дом 16 оф 29 ,7 (775) 167-80-08,KZ08UWG00001826,http://happy-travel.kz,,,,https://statsnet.co/search/kz/Happy%20Travel.kz,Алматы,77,,,1.67
+TK-0126,BANZAI TOUR,"Алматы ул.Жамбыла,114/85 корп.",7 (727) 378-10-08,ТА-107 ОТ 24.04.2015,http://banzaitravel.kz,,,,https://statsnet.co/search/kz/BANZAI%20TOUR,Алматы,77,,,3.74
+TK-0127,Ел Тур,"Астана ул.Амман 8,БЦ Милано,411 кабинет",7 (702) 222-02-14,KZ45UWG00000384,http://www.eltour.kz,,,,https://statsnet.co/search/kz/Ел%20Тур,Астана,77,1.0,,2.75
+TK-0128,HT.KZ Almaty,"Алматы микрорайон Самал -3,12,офис 1",8 (727) 338-49-49,ТА-245 от 11.04.2016 г,http://www.ht.kz,,,,https://statsnet.co/search/kz/HT.KZ%20Almaty,Алматы,77,,,3.62
+TK-0129,HT Tourism Almaty,"Алматы ул. Богенбай батыра, дом 81/36, нежилое помещение 54",8 (727) 338-49-49,KZ58UWG00000344,http://www.ht.kz,,,,https://statsnet.co/search/kz/HT%20Tourism%20Almaty,Алматы,77,,,2.52
+TK-0130,HT Tourism Kazakhstan,"Алматы пр. Назарбаева, дом 130, кв. 2",8 (727) 338-49-49,ТА-444,http://www.ht.kz,,,,https://statsnet.co/search/kz/HT%20Tourism%20Kazakhstan,Алматы,77,,,4.37
+TK-0132,HT.KZ 5,"Алматы ул.Байтурсынова 20,1 этаж",8 (727) 338-49-49,KZ73UWG00000559,http://www.ht.kz,,,,https://statsnet.co/search/kz/HT.KZ%205,Алматы,77,,,2.53
+TK-0133,Поедем Алматы,Алматы пр. Достык 42/1,8 (727) 345-33-33,ТА-240,http://www.poedem.kz,,,,https://statsnet.co/search/kz/Поедем%20Алматы,Алматы,77,,,3.56
+TK-0134,Поедем Казахстан,Алматы пр. Достык 42/1,8 (727) 345-33-33,ТА-438,http://www.poedem.kz,,,,https://statsnet.co/search/kz/Поедем%20Казахстан,Алматы,77,,,2.62
+TK-0135,Poedem travel Kazakhstan,Алматы пр. Достык 42/1,8 (727) 345-33-33,KZ13UWG00000475,http://www.poedem.kz,,,,https://statsnet.co/search/kz/Poedem%20travel%20Kazakhstan,Алматы,77,,,2.58
+TK-0136,"HT.KZ Shymkent
+","Шымкент ул. Орынбаева 37, офис 2
+","8 (725) 292-18-18
+","KZ49UWG00000215
+","http://www.ht.kz
+",,,,https://statsnet.co/search/kz/HT.KZ%20Shymkent,Шымкент,77,,,4.07
+TK-0137,HT.KZ Karaganda,"Караганда пр. Бухар Жырау, зд. 52. Офис 2",8 (721) 298-10-08,KZ38UWG00000219,http://www.ht.kz,,,,https://statsnet.co/search/kz/HT.KZ%20Karaganda,Караганда,77,,,3.49
+TK-0138,Поедем Актобе,"Актобе микрорайон Батыс 2,3г",8 (713) 274-40-00,KZ22UWG00000216,http://www.poedem.kz,,,,https://statsnet.co/search/kz/Поедем%20Актобе,Актобе,77,,,4.12
+TK-0139,Gotour,"Алматы пр. Назарбаева 193, н.п.66",7 (747) 094-50-68,KZ08UWG00000565,http://www.gotur.kz,,,,https://statsnet.co/search/kz/Gotour,Алматы,77,,,2.75
+TK-0141,Турагентство HT.KZ,"Астана ул. Толе би,48/1",8 (717) 257-58-59,ТА-423,http://www.ht.kz,,,,https://statsnet.co/search/kz/Турагентство%20HT.KZ,Астана,77,,,3.65
+TK-0142,Ht.kz Astana,"Астана ул.Мангилик ел 49, блок А",8 (717) 257-58-59,ТА-418,http://www.ht.kz,,,,https://statsnet.co/search/kz/Ht.kz%20Astana,Астана,77,,,2.55
+TK-0144,НТ Travel Astana,"Астана ул.Мангилик ел 49, блок А",8 (717) 257-58-59,KZ29UWG00000187,http://www.ht.kz,,,,https://statsnet.co/search/kz/НТ%20Travel%20Astana,Астана,77,,,2.21
+TK-0145,Ht.kz travel company,Астана пр. Рақымжан Қошқарбаев 10 н.п24,8 (717) 257-58-59,KZ45UWG00000481,http://www.ht.kz,,,,https://statsnet.co/search/kz/Ht.kz%20travel%20company,Астана,77,,,1.73
+TK-0146,Астана Туризм,"Астана ул.Мангилик ел 49, блок А",8 (717) 257-58-59,KZ21UWG00000525,http://www.ht.kz,,,,https://statsnet.co/search/kz/Астана%20Туризм,Астана,77,,,3.21
+TK-0147,POEDEM.KZ,"Астана ул. Сыганак, 14, ВП-13",8 (717) 269-52-49,ТА-068,http://www.poedem.kz,,,,https://statsnet.co/search/kz/POEDEM.KZ,Астана,77,,,4.36
+TK-0148,Поедем Астана,"Астана ул. Сыганак, 14, ВП-13",8 (717) 269-52-49,ТА-437,http://www.poedem.kz,,,,https://statsnet.co/search/kz/Поедем%20Астана,Астана,77,,,3.33
+TK-0149,POEDEM.KZ ASTANA,"Астана ул. Сыганак, 14, ВП-13",8 (717) 269-52-49,KZ76UWG00000602,http://www.poedem.kz,,,,https://statsnet.co/search/kz/POEDEM.KZ%20ASTANA,Астана,77,,,1.56
+TK-0151,HOTTEY TRAVEL,Алматы пр. Абая 21,7 (701) 524-24-96,ТА-1241,http://www.hotteytravel.kz,,,,https://statsnet.co/search/kz/HOTTEY%20TRAVEL,Алматы,77,,,2.61
+TK-0156,#traveler,Караганда пр Металлургов 26,7 (702) 779-00-62,ТА-1706,https://itraveler.kz/,,210240029652,https://www.goszakup.gov.kz/ru/registry/show_supplier/470464,https://statsnet.co/search/kz/#traveler,Караганда,100,,,2.66
+TK-0158,Авиатурагентство Премьер,Астана пр.Победы 20,7 (701) 526-44-49,ТА № 085 от 15.02.2002,http://www.premiertravel.kz,,,,https://statsnet.co/search/kz/Авиатурагентство%20Премьер,Астана,77,,,2.29
+TK-0159,ВИЗА-ИН-ТУР,Усть-Каменогорск ул.КАЗАХСТАН 65 ,7 (705) 520-31-13,"KZ55UWG00001659,  ТА № 0029523",http://vizatur.kz,,,,https://statsnet.co/search/kz/ВИЗА-ИН-ТУР,Усть-Каменогорск,77,,,4.1
+TK-0160,VIP TOUR Company,Актобе Бр.Жубановых 278А 8 каб,7 (701) 747-35-67,ТА-0011564 от 19.11.2008,,,081040008458,https://www.goszakup.gov.kz/ru/registry/show_supplier/166833,https://statsnet.co/search/kz/VIP%20TOUR%20Company,Актобе,90,,,4.04
+TK-0161,Нур Тур (NUR -TOUR),Астана пр. Женис 8,7 (775) 143-15-08,KZ36UWG00000158,http://nurtour,,,,https://statsnet.co/search/kz/Нур%20Тур%20(NUR%20-TOUR),Астана,77,,,1.73
+TK-0162,«Travel Bank»,"Алматы ул. Толе би 110, оф 79",7 (727) 222-30-30,ТА-1595 от 17.06.2013г,http://travelbank.kz,,,,https://statsnet.co/search/kz/«Travel%20Bank»,Алматы,77,,,2.28
+TK-0163,Servet travel,"Астана улица Тараса Шевченко,4/1 офис 346",7 (717) 277-91-93,KZ40UWG00001056,,,190340006650,https://www.goszakup.gov.kz/ru/registry/show_supplier/388025,https://statsnet.co/search/kz/Servet%20travel,Астана,90,,,2.89
+TK-0164,Первая Туристическая Компания,"Алматы ЖК Шанырак​Улица Наурызбай батыра, 99/1​12 офис; 3 этаж​",8 (727) 327-87-11,KZ45UWG00000190,http://www.1tk.kz,,,,https://statsnet.co/search/kz/Первая%20Туристическая%20Компания,Алматы,77,,,4.06
+TK-0165,Satti.kz,"Астана ул.Достык 4, н.п.32",7 (777) 299-10-15,ТА-448 от 13.10.2017 г.,http://www.sattitravel.kz,,170940032053,https://www.goszakup.gov.kz/ru/registry/show_supplier/651159,https://statsnet.co/search/kz/Satti.kz,Астана,100,,,3.81
+TK-0166,Туристическое агентство MAGIC LAMP,Рудный Ленина 149,8 (714) 314-88-88,ТА - 162,https://instagram.com/magic_lamp_rdn?igshid=qu24d3n8v4kb,,,,https://statsnet.co/search/kz/Туристическое%20агентство%20MAGIC%20LAMP,Рудный,77,,,3.46
+TK-0167,Magic Тур,"Алматы пр. Жибек жолы,135",8 (777) 729-40-83,ТА-098  от 20.04.2015 г.,http://www.travelagent.kz,,,,https://statsnet.co/search/kz/Magic%20Тур,Алматы,77,,,3.38
+TK-0168,Pro100tourastana ,Астана пр Богенбай батыр 43/2,8 (777) 116-20-00,KZ43UWG00000226,http://PRO100TOUR.KZ,,,,https://statsnet.co/search/kz/Pro100tourastana,Астана,77,,,3.48
+TK-0169,TourBar,Алматы Розыбакиева 247/2 офис187,8 (727) 339-20-50,ТА-295 от 11.05.2010,,,,,https://statsnet.co/search/kz/TourBar,Алматы,67,,,2.74
+TK-0170,The Tour,Астана Мангилик ел 20/2 БЦ Азамат 704 офис ,87476866981,№KZ18UWG00002325,http://www.thetour.kz,,090340006510,https://www.goszakup.gov.kz/ru/registry/show_supplier/10123,https://statsnet.co/search/kz/The%20Tour,Астана,100,,,4.28
+TK-0171,ИЛАНА-ТУР,"Актау 8 МИКРОРАЙОН, ЗДАНИЕ 3/1",7 (771) 838-38-37,KZ4UWG00002190,http://НЕТ,,,,https://statsnet.co/search/kz/ИЛАНА-ТУР,Актау,77,,,2.66
+TK-0173,Туристическое агентство QazTravel,Алматы г. Алматы ул. Розыбакиева 214 н.п.  34 ,8 (718) 268-05-40,KZ03UWG00000752,https://www.instagram.com/qaztravel_pvl/,,,,https://statsnet.co/search/kz/Туристическое%20агентство%20QazTravel,Алматы,77,,,3.95
+TK-0174,Фест,"Павлодар пл.Победы 25, каб.310",8 (718) 277-01-17,ТА-0060,,,190640012309,https://www.goszakup.gov.kz/ru/registry/show_supplier/621097,https://statsnet.co/search/kz/Фест,Павлодар,90,,,2.25
+TK-0175,«Air Travel & Tourism»,Алматы Желтоксан 96  офис 223,7 (701) 912-50-55,KZ72UWG00002032,https://www.instagram.com/airtraveltourism/,,,,https://statsnet.co/search/kz/«Air%20Travel%20&%20Tourism»,Алматы,77,,,2.17
+TK-0176,Туристская компания Тегерек тур,Павлодар ул.Ак.Сатпаева 59-33,8 (718) 266-61-82,ТА-1036 от 24.02.2012,http://tegerek.kz/,,,,https://statsnet.co/search/kz/Туристская%20компания%20Тегерек%20тур,Павлодар,77,,,1.84
+TK-0177,Международная туристическая компания VLETO,Астана Тарас Шевченко 10/1 вп1 этаж 2 офис 5,8 (701) 062-77-66,KZ86UWG00002071 от 13 сентября ,http://www.vleto.kz,,,,https://statsnet.co/search/kz/Международная%20туристическая%20компания%20VLETO,Астана,77,,,3.82
+TK-0178,«TOUR-AVIA EXPRESS»,"Павлодар ул. Катаева, 9",7 (705) 260-89-89,ТА-1995 от 14.05.2014 г.,,,,,https://statsnet.co/search/kz/«TOUR-AVIA%20EXPRESS»,Павлодар,67,,,2.33
+TK-0180,Чемодан №7,"Астана Проспект Менгилик ел, дом 17, кв. 130",7 (747) 094-71-75,KZ46UWG00002015,https://chemodan.kz/,,,,https://statsnet.co/search/kz/Чемодан%20№7,Астана,77,,,1.74
+TK-0181,Universal Travel Ltd,Алматы панфилова 64 ,7 (701) 324-34-66,№0000858 (прил.0000741),,,,,https://statsnet.co/search/kz/Universal%20Travel%20Ltd,Алматы,67,,,3.8
+TK-0182,START,"Актау БЦ Алтын Орда, 1 этаж, 104 кабинет",7 (707) 199-10-19,KZ75UWG00002269,,,120140012823,https://www.goszakup.gov.kz/ru/registry/show_supplier/685316,https://statsnet.co/search/kz/START,Актау,90,,,3.19
+TK-0183,GoldenTravel,Актау 6А мкр-н зд 11/3 Ai Mei,+7 777 630 8288,KZ47UWG00002191,,,,,https://statsnet.co/search/kz/GoldenTravel,Актау,67,,,3.34
+TK-0184,Сеть Турагентств 257 № 6,"Астана район Алматы,пр Магжан Жумабаев 3/1,кв 67",7 (717) 272-56-22,KZ31UWG00002091,http://257.kz,,,,https://statsnet.co/search/kz/Сеть%20Турагентств%20257%20№%206,Астана,77,,,3.84
+TK-0186,Queenox Tour,Астана Сыганак 47;Еуроцентр офис 522,7 (701) 555-61-67,KZ92UWG00000896,,,,,https://statsnet.co/search/kz/Queenox%20Tour,Астана,67,,,3.25
+TK-0187,TRANSAVIA TOUR KZ,"Алматы Алматы, ул.Наурызбай батыра, 99/1 оф 1",7 (727) 248-09-96,TA-391 от 22.05.2017 г.,http://transtour.kz,,,,https://statsnet.co/search/kz/TRANSAVIA%20TOUR%20KZ,Алматы,77,,,2.54
+TK-0188,Family Tour,Алматы Байзакова 222 офис 87,87273788572,ТА-1014 от от 17.02.2012,,,,,https://statsnet.co/search/kz/Family%20Tour,Алматы,67,,,3.09
+TK-0189,KHAN-TURAN TRAVEL,"Алматы АЛМАТЫ, ТОЛЕ БИ 110 ОФИС 104",7 (701) 204-34-39,KZ41UWG00002396,,,,,https://statsnet.co/search/kz/KHAN-TURAN%20TRAVEL,Алматы,67,,,1.61
+TK-0190,Сеть Турагентств 257 № 13,"Алматы ул. Маркова, д. 61/1",7 (777) 000-33-31,KZ54UWG00002162,http://257.kz,,,,https://statsnet.co/search/kz/Сеть%20Турагентств%20257%20№%2013,Алматы,77,,,3.98
+TK-0191,Apple Tour,"Атырау Сатпаева 17, Резиденция Ардагер ",7 (712) 276-67-66,KZ90UWG00001611,,,,,https://statsnet.co/search/kz/Apple%20Tour,Атырау,67,,,3.57
+TK-0192,ВОЯЖ / VOYAGE,"Усть-Каменогорск А.Чехова, 37",87776532613,KZ86UWG00002362,http://qazvoyage.kz,,,,https://statsnet.co/search/kz/ВОЯЖ%20/%20VOYAGE,Усть-Каменогорск,77,,,4.32
+TK-0193,Туристическая компания Мир прекрасен,"Астана ул. Янушкевича, д. 1, нп 13",7 (701) 221-33-66,ТА-1660,http://mirkz.kz,,,,https://statsnet.co/search/kz/Туристическая%20компания%20Мир%20прекрасен,Астана,77,,,2.05
+TK-0194,Easy Travel,Атырау проспект Азаттык 27,7 (702) 299-90-00,ТА-1217 от 17.07.2012,http://www.easytravel.kz,,,,https://statsnet.co/search/kz/Easy%20Travel,Атырау,77,,,4.39
+TK-0198,Malibu Travel,"Алматы ул.Мынбаева,46,офис 122",+7 (727) 392‒28‒30,ТА-1761 от 11.11.2013,,,,,https://statsnet.co/search/kz/Malibu%20Travel,Алматы,67,,,2.04
+TK-0199,Туристическая компания ПЛАНЕТА.KZ-2010,Атырау ул.Гизат Алипова 3,+7 7122 304747,ТА-122 от 06.05.2015 г.,http://www.atyrauplaneta.kz,,,,https://statsnet.co/search/kz/Туристическая%20компания%20ПЛАНЕТА.KZ-2010,Атырау,77,,,4.26
+TK-0200,"Gala Tour-U, LTD",Алматы Республики площадь 13,7 (777) 734-44-62,ТА № 285 от 01.04.2003,,,,,"https://statsnet.co/search/kz/Gala%20Tour-U,%20LTD",Алматы,67,,,1.67
+TK-0201,Luxe Travel,Караганда ул. Гоголя 34А,8 (747) 590-65-37,KZ89UWG00000950,https://www.instagram.com/luxe_travel_agency/,,,,https://statsnet.co/search/kz/Luxe%20Travel,Караганда,77,,,4.45
+TK-0202,AmAr travel,"Алматы ул. Толе би 202 а, офис 602",8 (707) 444-47-03,KZ02UWG00001643,,,,,https://statsnet.co/search/kz/AmAr%20travel,Алматы,67,,,2.41
+TK-0203,Aladdin Travel,Астана УЛ ПЕТРОВА 18 ОФИС 509,8 (771) 999-61-91,KZ82UWG00001561,,,,,https://statsnet.co/search/kz/Aladdin%20Travel,Астана,67,,,3.22
+TK-0204,Клуб Путешествий Globus Travel,Актобе пр. Абулхаир хана 68/38,7 (713) 290-78-85,ТА-958 от 19.01.2012,,,,,https://statsnet.co/search/kz/Клуб%20Путешествий%20Globus%20Travel,Актобе,67,,,1.57
+TK-0205,SKY-TRAVEL,"Экибастуз М.ЖУСУПА, 53 В-1 ЭТАЖ, ТД «КАМИЛА»",8 (718) 734-81-07,ТА-862 от 17.10.2011,,,,,https://statsnet.co/search/kz/SKY-TRAVEL,Экибастуз,67,,,1.52
+TK-0206,Туркомпания Тогас-интурсервис,Семей ул.Дулатова 145,8 (747) 094-11-20,KZ47UWG00001706,http://togastour.kz,,,,https://statsnet.co/search/kz/Туркомпания%20Тогас-интурсервис,Семей,77,,,3.8
+TK-0207,Leo Service,Алматы Желтоксан. 37 офис 2Д,7 (727) 279-22-89,ТА-1430 от 07.03.2013,http://leoservce.kz,,,,https://statsnet.co/search/kz/Leo%20Service,Алматы,77,,,2.3
+TK-0208,ТУРАГЕНТСТВО МИР,Актобе АКТОБЕ 11 МКР 112 Д ОФИС 231,8 (701) 400-75-25,ТА-0075065 от 17.10.2008 г.,,,,,https://statsnet.co/search/kz/ТУРАГЕНТСТВО%20МИР,Актобе,67,,,2.57
+TK-0215,Nicetour,"Астана пр.Улы Дала, 11/3, ВП7",87770117000,ТА-1010 от 17.02.2012,http://www.nicetour.kz,,,,https://statsnet.co/search/kz/Nicetour,Астана,77,,,2.11
+TK-0216,SUNNY TOUR,"Астана ул.Керей Жанибек хандар 18,БЦ Самал",7 (717) 248-15-48,KZ54UWG00002356,,,,,https://statsnet.co/search/kz/SUNNY%20TOUR,Астана,67,,,3.52
+TK-0217,"Агентство путешествий Suraiya Travel
+","Атырау ул. Гурьевская, д.5Б, офис 2
+","7 (701) 770-59-25
+","KZ88UWG00000192
+","https://www.instagram.com/suraiya_travel_atyrau/?hl=ru
+",,,,https://statsnet.co/search/kz/Агентство%20путешествий%20Suraiya%20Travel,Атырау,77,,,3.86
+TK-0218,СТА 24/7,"Астана ​БЦ Uly Dala Plaza​Улица Беимбет Майлин, 37",7 (771) 033-40-40,KZ67UWG00002122,https://247travel.kz/,,,,https://statsnet.co/search/kz/СТА%2024/7,Астана,77,,,2.17
+TK-0219,AIVIS TRAVEL,"Тараз улица Казыбек Би,115,оф.6",7 (708) 717-10-85,ТА-1636 от 15.07.2013,http://www.aivistravel.kz,,,,https://statsnet.co/search/kz/AIVIS%20TRAVEL,Тараз,77,,,3.28
+TK-0220,Национальная Туристическая Компания R-TOUR.KZ,Караганда Аманжолова 30 офис 23,7 (775) 850-31-23,KZ57UWG00002690,http://www.r-tour.kz,,,,https://statsnet.co/search/kz/Национальная%20Туристическая%20Компания%20R-TOUR.KZ,Караганда,77,,,2.13
+TK-0221,«Aydana Tour Almaty»,Алматы ул. Ауэзова  129,7 (727) 344-95-99,KZ48UWG00002658,http://aydanatour.kz,,,,https://statsnet.co/search/kz/«Aydana%20Tour%20Almaty»,Алматы,77,,,4.43
+TK-0222,Millennium Travel,"Алматы Улица Байтурсынова, 68, ​6 офис; 1 этаж​",7 (727) 292-44-27,KZ15UWG00001894,http://www.millennium.kz,,,,https://statsnet.co/search/kz/Millennium%20Travel,Алматы,77,,,3.25
+TK-0223,Агентство комфортных путешествий Арт-Трэвел,Алматы ул.Тимирязева 15 Б,8 (727) 244-58-01,ТА-402 13.06.2017 г.,https://art-travel.kz,,,,https://statsnet.co/search/kz/Агентство%20комфортных%20путешествий%20Арт-Трэвел,Алматы,77,,,2.36
+TK-0225,Study&Travel,Шымкент Аскарова 7 офис 2,8 (725) 297-54-47,KZ61UWG00002715,http://study_travel1(instagram),,,,https://statsnet.co/search/kz/Study&Travel,Шымкент,77,,,1.76
+TK-0226,GuVa tour KZ,Экибастуз Мухтара Ауэзова 49В,8 (776) 556-50-00,KZ49UWG00000312,http://guva tour,,,,https://statsnet.co/search/kz/GuVa%20tour%20KZ,Экибастуз,77,,,4.09
+TK-0229,Сеть Турагентств 257 №12,"Уральск Бурлинский район, город Аксай, Микрорайон 5, дом 18, кв. 36",8 (705) 126-28-74,KZ41UWG00002784,http://257.kz,,,,https://statsnet.co/search/kz/Сеть%20Турагентств%20257%20№12,Уральск,77,,,2.75
+TK-0230,Golden Travel Astana,"Астана Дом Министерств, Мангилик Ел 8, Блок 18В",7 (701) 520-21-41,KZ59UWG00002848,,,,,https://statsnet.co/search/kz/Golden%20Travel%20Astana,Астана,67,,,3.18
+TK-0231,Сеть Турагентств 257 № 15,"Костанай Костанайский район, поселок Затобольск, улица Новая, дом 39",7 (776) 100-11-88,KZ45UWG00002809,http://257.kz,,,,https://statsnet.co/search/kz/Сеть%20Турагентств%20257%20№%2015,Костанай,77,,,4.0
+TK-0232,Авиатурагенство Акку,Алматы Райымбека 120 124 оф 68,7 (701) 715-74-71,KZ11UWG00003033,http://akkutour.kz,,,,https://statsnet.co/search/kz/Авиатурагенство%20Акку,Алматы,77,,,2.63
+TK-0233,"ТА Вокруг Света
+","Шымкент 18 мкр д 24 офис 2
+","7 (707) 754-57-32
+","ТА-1822 от 17.01.2014
+","http://
+",,,,https://statsnet.co/search/kz/ТА%20Вокруг%20Света,Шымкент,77,,,2.88
+TK-0234,«Eurasia tour»,Караганда проспект Нуркена Абдирова 3 офис 103,7 (775) 732-32-22,TA-1495 от 09.04.2013г.,https://www.instagram.com/eurasia_tour_krg/,,,,https://statsnet.co/search/kz/«Eurasia%20tour»,Караганда,77,,,4.05
+TK-0235,Арт Туризм,"Алматы Абая 30 офис 6 этаж 3 ,",7 (700) 500-05-35,KZ19UWG00002829,https://art-turizm.kz/,,,,https://statsnet.co/search/kz/Арт%20Туризм,Алматы,77,,,3.23
+TK-0236,Турагентство АУМ-ТУР,"Актобе ТЦ Гранд, Маресьева 88 В,офис 7",8 (708) 471-35-39,KZ25UWG00002005,,,,,https://statsnet.co/search/kz/Турагентство%20АУМ-ТУР,Актобе,67,,,1.86
+TK-0237,Акниет,Павлодар ул.Майры 43/9,8 (701) 365-44-45,KZ46UWG00001821,http://akniettour.kz/,,140740001714,https://www.goszakup.gov.kz/ru/registry/show_supplier/28765,https://statsnet.co/search/kz/Акниет,Павлодар,100,,,1.77
+TK-0238,Сеть Турагентств Чемодан № 11,Шымкент  проспект Тауке хана 60,8 (701) 800-09-51,KZ32UWG00002849,https://chemodan.kz/,,,,https://statsnet.co/search/kz/Сеть%20Турагентств%20Чемодан%20№%2011,Шымкент,77,,,3.3
+TK-0239,FARDJI,"Алматы Калдаякова, 41 оф 9",8 (727) 291-80-24,ТА-002 от 12.03.09г. № 0134134,http://fardji.kz,,,,https://statsnet.co/search/kz/FARDJI,Алматы,77,,,3.99
+TK-0241,EASY FLY AKTAU,"Актау 14 мкр, здание К7 group",7 (747) 224-47-07,KZ06UWG00000989,http://@easy_fly_aktau,,,,https://statsnet.co/search/kz/EASY%20FLY%20AKTAU,Актау,77,,,1.96
+TK-0242,ИП NGTOUR,"Караганда пр.Бухар Жырау 36, 2",8 (721) 242-58-85,ТА-1068 от 02.04.2012,http://www.ngtour.kz,,,,https://statsnet.co/search/kz/ИП%20NGTOUR,Караганда,77,,,2.51
+TK-0243,Alliance Trio Tour,"Актау 5 микрорайон,здание 17/1,офис 8",8 (702) 644-25-46,10100293766149,,,,,https://statsnet.co/search/kz/Alliance%20Trio%20Tour,Актау,67,,,4.26
+TK-0244,DREAM TRAVEL AKTAU,"Актау БЦ Жастар,415 офис",7 (701) 350-59-25,KZ92UWG00002545	,http://-,,,,https://statsnet.co/search/kz/DREAM%20TRAVEL%20AKTAU,Актау,77,,,3.85
+TK-0245,Aydana Tour,"Актобе РК, Актобе, А. Молдагуловой 30Б, нп 1А",7 (713) 241-20-20,KZ26UWG00000241,http://aydanatour.kz,,,,https://statsnet.co/search/kz/Aydana%20Tour,Актобе,77,,,4.3
+TK-0246,Шымтур,"Шымкент пр. Республики, 43",7 (725) 256-02-26,KZ08UWG00000953,http://www.shymtour.com,,071140014088,https://www.goszakup.gov.kz/ru/registry/show_supplier/419623,https://statsnet.co/search/kz/Шымтур,Шымкент,100,,,3.57
+TK-0247,BJN Travel,Астана Амман 8 БЦ Милано офис 105,7 (701) 791-81-15,KZ31UWG00001121,,,,,https://statsnet.co/search/kz/BJN%20Travel,Астана,67,,,3.24
+TK-0248,Hit Travel,"Алматы микрорайон-10А, д. 13 оф. 4",7 (727) 302-90-72,ТА-1545 от 08.05.2013,http://www.hittravel.kz,,,,https://statsnet.co/search/kz/Hit%20Travel,Алматы,77,,,1.78
+TK-0249,AiTour,"Астана пр. Республики 33, 1 этаж, 13 офис",7 (701) 888-56-22,KZ12UWG00000105,http://aitour.kz,,,,https://statsnet.co/search/kz/AiTour,Астана,77,,,2.23
+TK-0250,Bounty Tour,Алматы Абая 68/74 офис 208,7 (777) 230-19-30,0000916(прил.0000705) от10.06.05,http://bounty-tour.online,,,,https://statsnet.co/search/kz/Bounty%20Tour,Алматы,77,,,2.11
+TK-0251,ATLANTIS TRAVEL INTERNATIONAL,"Алматы г. Алматы, пр.Гагарина 12, офис 190  ",7 (727) 248-43-44,ТА-1937 от 11.04.2014,,,,,https://statsnet.co/search/kz/ATLANTIS%20TRAVEL%20INTERNATIONAL,Алматы,67,,,4.39
+TK-0252,Palma travel,Алматы ул.Жолдасбекова 9а,8 (701) 776-57-79,KZ73UWG00001820,http://www.palmatravel.kz ,,,,https://statsnet.co/search/kz/Palma%20travel,Алматы,77,,,3.37
+TK-0256,HOT TOUR / ХОТ ТУР,Алматы пр. Сейфуллина 498 оф. 202,8 (727) 310 14 14,KZ14UWG00001330,https://hottour.kz/,,,,https://statsnet.co/search/kz/HOT%20TOUR%20/%20ХОТ%20ТУР,Алматы,77,,,1.92
+TK-0257,Геотур,"Усть-Каменогорск ул. Тохтарова, 54-3",8 7232 262534,ТА №039 от 19.01.2002,http://@geotour_ukg,,,,https://statsnet.co/search/kz/Геотур,Усть-Каменогорск,77,,,2.82
+TK-0258,Желтый чемодан,Актау 3 микрорайон 18 дом,+77074514031,KZ30UWG00000266,,,,,https://statsnet.co/search/kz/Желтый%20чемодан,Актау,67,,,2.6
+TK-0259,HOT TOUR / ХОТ ТУР,Алматы  пр. Сейфуллина 498 оф. 202,+7 (7172) 97 20 20,KZ11UWG00003421,https://hottour.kz/,,,,https://statsnet.co/search/kz/HOT%20TOUR%20/%20ХОТ%20ТУР,Алматы,77,,,3.08
+TK-0260,GREEN VOYAGES,Алматы пр. Абая 155 офис 2,+77078957586,ТА-441 от 29.08.2017 г.,https://greenvoyages.kz,,,,https://statsnet.co/search/kz/GREEN%20VOYAGES,Алматы,77,,,3.58
+TK-0262,EURASIA TRAVEL AGENCY,"Семей Кабанбай Батыра 26, офис 103",+7 705 261 1068,ТА-779 от 20.07.2011,http://www.eurotravel.kz,,,,https://statsnet.co/search/kz/EURASIA%20TRAVEL%20AGENCY,Семей,77,,,3.82
+TK-0263,ПЯТЬ ЗВЕЗД,Атырау пр Азаттык 46-19,+77122777777,KZ51UWG00002410,http://www.5zvezdatyrau.kz,,130340009189,https://www.goszakup.gov.kz/ru/registry/show_supplier/364441,https://statsnet.co/search/kz/ПЯТЬ%20ЗВЕЗД,Атырау,100,,,3.11
+TK-0264,ТОО FALCON FLIGHT,"Алматы Богенбай батыр,132",8 (701) 347-88-96,ТА № 453 от 26.05.2004,http://www.flf.kz,,,,https://statsnet.co/search/kz/ТОО%20FALCON%20FLIGHT,Алматы,77,,,2.34
+TK-0265,OSTravel Agency,Каскелен улица Наурызбая 92/2,+77273001736,KZ15UWG00002961,http://www.ostravel.kz,,,,https://statsnet.co/search/kz/OSTravel%20Agency,Каскелен,77,,,4.14
+TK-0266,7 Travel Company,"Алматы БЦ BAYZAK, пр. Абая, 52 В, 2 этаж, офис 211",+77273175687,KZ15UWG00001506,http://7travel.kz,,,,https://statsnet.co/search/kz/7%20Travel%20Company,Алматы,77,,,2.4
+TK-0268,Туристическое агентство МЕГА ТУР,Костанай ул. Тәуелсіздік 83,+77773020109,Та-11 №0099915 от 27.02.2008г.,,,,,https://statsnet.co/search/kz/Туристическое%20агентство%20МЕГА%20ТУР,Костанай,67,,,2.96
+TK-0269,"ИП Алем Тур
+","Уральск Самарская 99
+","7 (701) 264-08-99
+","KZ70UWG00000225
+","http://
+",,,,https://statsnet.co/search/kz/ИП%20Алем%20Тур,Уральск,77,,,3.31
+TK-0270,Talisman Travel Company,"Астана Туран, 50, БЦ Кристал, 2 этаж, офис 209-2", 7 (700) 749-44-24,KZ79UWG00002391,https://talismancompany.kz/,,,,https://statsnet.co/search/kz/Talisman%20Travel%20Company,Астана,77,,,1.75
+TK-0271,Intour.kz,Астана ул.Кабанбай Батыра 49,+77751577114,KZ69UWG00002668,http://intour.kz/,,,,https://statsnet.co/search/kz/Intour.kz,Астана,77,,,2.17
+TK-0272,ЖАППАС ТРЭВЕЛ,"Атырау ул Абая 16а,15",87786484860,KZ58UWG00001120,https://taplink.cc/zhappastravel,,,,https://statsnet.co/search/kz/ЖАППАС%20ТРЭВЕЛ,Атырау,77,,,4.01
+TK-0273,ITS touristik,"Алматы ул. Жандарбекова, 238 БЦ Аблай офис 238",87789005017,KZ23UWG00003787,http://itstouristik.kz/,,,,https://statsnet.co/search/kz/ITS%20touristik,Алматы,77,,,2.97
+TK-0274,Travel Shop,"Астана БЦ А, ул. Сыганак, 54А офис 310",+7 7761565041,KZ86UWG00003623,,,,,https://statsnet.co/search/kz/Travel%20Shop,Астана,67,,,4.19
+TK-0275,Алим тур ,Алматы Маркова 28 А,+77086686755,KZ19UWG00000464,http://alimtour.kz/,,,,https://statsnet.co/search/kz/Алим%20тур,Алматы,77,,,3.89
+TK-0276,today.travel,"Алматы Курмангазы, 143, н.п 36, 87470944545",87750300900 ,KZ58UWG00004224,https://today.travel/,,,,https://statsnet.co/search/kz/today.travel,Алматы,77,,,3.11
+TK-0277,СИТИ-ТРЕВЕЛ,"Петропавловск ул. С.Муканова, 53, оф. 21",+77152320510,№ 0004355 от 05.04.2005г,http://www.ctravel.kz,,,,https://statsnet.co/search/kz/СИТИ-ТРЕВЕЛ,Петропавловск,77,,,1.63
+TK-0278,Luxury Tours,"Астана проспект Туран дом 43/1, НП-9, ",87017764490;456998,ТА-1755 от 05.11.2013г. ,https://instagram.com/luxury_tours_?igshid=OGQ5ZDc2ODk2ZA==,,,,https://statsnet.co/search/kz/Luxury%20Tours,Астана,77,,,2.12
+TK-0279,ТОО Dana Travel KZ,Астана улица Кабанбай батыра 48/1,+77756032523,KZ22UWG00004290,https://instagram.com/dana_travel_kz?igshid=NWRhNmQxMjQ=,,,,https://statsnet.co/search/kz/ТОО%20Dana%20Travel%20KZ,Астана,77,,,4.0
+TK-0282,MANGO tour,"Караганда Tаттимбета 9, офис 1",+77055979731,KZ60UWG00004576,https://mangotourkz.com,,,,https://statsnet.co/search/kz/MANGO%20tour,Караганда,77,,,3.73
+TK-0284, Premium club travel,"Астана ​Улица Сыганак, 54а​1303 офис; 13 этаж​",+7 (777) 145-59-84,NKZ18UWG00001258,,,,,https://statsnet.co/search/kz/%20Premium%20club%20travel,Астана,67,,,4.21
+TK-0285,Бюро путешествий «ВСЁ ВКЛЮЧЕНО»  ,"Астана Кайым Мухамедханов 9, нп 3",+7 705 754 00 41,KZ80UWG00004701,,,,,https://statsnet.co/search/kz/Бюро%20путешествий%20«ВСЁ%20ВКЛЮЧЕНО»,Астана,67,,,2.83
+TK-0286,"Exclusive Travel 
+","Атырау Ул.Жарбосынова 89а, БЦ БАЙ-ТАЛ, 3 этаж, офис 8
+","+77023739363
+","KZ12UWG00003209
+",https://instagram.com/exclusive_travel.atyrau?utm_medium=copy_li,,,,https://statsnet.co/search/kz/Exclusive%20Travel,Атырау,77,,,2.14
+TK-0288,INDI TRAVEL,Алматы ул Жарокова 191,87272745549,KZ45UWG00003779,http://indi-travel.kz,,,,https://statsnet.co/search/kz/INDI%20TRAVEL,Алматы,77,,,3.59
+TK-0289,"Travel Tech
+","Алматы Алматы, Абылай хана 81, офис 503а
+","+7 700 205 50 00
+","KZ07UWG00003978
+","http://
+",,,,https://statsnet.co/search/kz/Travel%20Tech,Алматы,77,,,1.62
+TK-0292,"ТОО BABY TOUR
+","Семей Республика Казахстан, ВКО, г. Семей, ул. Чайжунусова, 131 А
+",+7 (700) 098 76 51,"KZ81UWG00004198
+","http://www.baby-tour.kz
+",,,,https://statsnet.co/search/kz/ТОО%20BABY%20TOUR,Семей,77,,,4.32
+TK-0295,"Супермаркет отдыха
+","Павлодар ул. Ак. Сатпаева, 29
+","8 (776) 802-33-22
+","TA-076 от 14.04.2015
+","http://tourmarket.kz/
+",,,,https://statsnet.co/search/kz/Супермаркет%20отдыха,Павлодар,77,,,3.01
+TK-0296,"Гермес-Тур
+","Уральск Республика Казахстан, г. Уральск, ул. Курмангазы, 167, офис Гермес-Тур
+","+7(701)390-39-33
+","KZ76UWG00003318
+","http://
+",,,,https://statsnet.co/search/kz/Гермес-Тур,Уральск,77,,,2.6
+TK-0297,"Web Tours
+","Алматы ул. Розыбакиева, 289/2
+","87002221022
+","KZ79UWG00004816
+","http://www.webtours.kz
+",,,,https://statsnet.co/search/kz/Web%20Tours,Алматы,77,,,3.8
+TK-0298,NURLY TRAVEL.KZ,"Астана пр.Женис 1, офис 50, ТД Арман",+77172390225,ТА-256 от 06.05.2016,,,,,https://statsnet.co/search/kz/NURLY%20TRAVEL.KZ,Астана,67,,,1.64
+TK-0299,ТОО Rich Travel,Алматы ул. Макатаева 2,87051119960,KZ31UWG00002770,http://www.richtravel.kz,,,,https://statsnet.co/search/kz/ТОО%20Rich%20Travel,Алматы,77,,,3.27
+TK-0300,Lechu.kz,Астана пр.Кабанбай батыра 9 ,87773882227,KZ95UWG00004334,http://www.lechu.kz,,,,https://statsnet.co/search/kz/Lechu.kz,Астана,77,,,1.96
+TK-0301,SUNRISE,Актау 4 А мкр. Здание 48. БЦ Ата-мура. Офис 107,+77053334949,KZ69UWG00001213,,,,,https://statsnet.co/search/kz/SUNRISE,Актау,67,,,4.27
+TK-0302,GROSS TOUR,Караганда Бухар Жырау 57/1 офис 810,+77017159616,ТА-361 от 15.02.2017 г.,https://www.instagram.com/grosstour/,,,,https://statsnet.co/search/kz/GROSS%20TOUR,Караганда,77,,,3.73
+TK-0303,BE FREE and TRAVEL,Караганда Бирюзова 5,87069070001,KZ82UWG00004956,,,,,https://statsnet.co/search/kz/BE%20FREE%20and%20TRAVEL,Караганда,67,,,2.49
+TK-0304,AKNIET TOUR,"Павлодар Павлодар г.а., Павлодар, улица Астана 139, офис 17",87013654445,KZ80UWG00004895,https://www.instagram.com/turfirma_akniet/,,,,https://statsnet.co/search/kz/AKNIET%20TOUR,Павлодар,77,,,1.89
+TK-0305,«VIP-Travel»,"Усть-Каменогорск пр.Назарбаева, 5",+77059652303,TA 0029489,,,,,https://statsnet.co/search/kz/«VIP-Travel»,Усть-Каменогорск,67,,,4.47
+TK-0306,TurSultanTravel,"Астана РК, г. Нур-Султан, улица Елубая Тайбекова, дом 80",+77754503330,KZ03UWG00003565,https://tursultan.kz/,,,,https://statsnet.co/search/kz/TurSultanTravel,Астана,77,,,4.38
+TK-0307,Premium tour,"Алматы пр. Абылай хана 105, офис 9",+7 (705) 5505474,ТА-1458,http://www.premiumtour.kz,,,,https://statsnet.co/search/kz/Premium%20tour,Алматы,77,,,2.06
+TK-0308,ТОО «Holliday Globus (Холлидэй Глобус)»,"Алматы PK, г. Алматы, ул.Сатпаева 30/8, кб.160",87000222233,ТА-457,,,,,https://statsnet.co/search/kz/ТОО%20«Holliday%20Globus%20(Холлидэй%20Глобус)»,Алматы,67,,,3.3
+TK-0310,ТОО Ailan Tour,"Алматы переулок Шумный 2, офис 211, БЦ Qstaf",+77024444472,№ ТА-051 от 03.04.2015 г.,http://www.ailantour.kz,,,,https://statsnet.co/search/kz/ТОО%20Ailan%20Tour,Алматы,77,,,3.9
+TK-0311,турагентство Юпитер,"Караганда Bukhar Jyrau 49/6, 203 офис",+77021486604,KZ16UWG00000906,,,,,https://statsnet.co/search/kz/турагентство%20Юпитер,Караганда,67,,,4.31
+TK-0312,TENIZ LIFE TOUR,"Астана ул. Аманжол Болекпаева, дом 14",+77475764288,KZ16UWG00005077,http://www.tenizlifetour.com,,,,https://statsnet.co/search/kz/TENIZ%20LIFE%20TOUR,Астана,77,,,3.13
+TK-0314,ТА OCEAN LOVE,"Астана г.Нур-Султан, улица Сыганак 54А, офис 803",+77781024673,KZ36UWG00005105,http://oceanlove.kz,,,,https://statsnet.co/search/kz/ТА%20OCEAN%20LOVE,Астана,77,,,1.79
+TK-0317,ТОО Vinsent Travel,Астана ул. Туран 43/1,+77024923878,KZ38UWG00001965,,,,,https://statsnet.co/search/kz/ТОО%20Vinsent%20Travel,Астана,67,,,3.57
+TK-0322,Arrovana Tour,"Алматы пр. Абая д. 34/96, офис 95 ",87777954521 ,106967-1910-ТОО ,,,,,https://statsnet.co/search/kz/Arrovana%20Tour,Алматы,67,,,2.25
+TK-0323,ИП Utour,Астана ТУРАН 34Б ОФИС НП12,87073486255,KZ28UWQ03527770,,,,,https://statsnet.co/search/kz/ИП%20Utour,Астана,67,,,3.54
+TK-0326,Ken Tour,"Астана Сыганак 24а,офис 803",+77016667267,10100563786095,,,,,https://statsnet.co/search/kz/Ken%20Tour,Астана,67,,,3.57
+TK-0328,Турагентство Казына,Павлодар Академика Сатпаева 38,+77015059050,TA-2216,,,,,https://statsnet.co/search/kz/Турагентство%20Казына,Павлодар,67,,,2.78
+TK-0329,Альмакс тур (Almax tour),"Астана Кабанбай батыра, 14, офис 4",+77011879986,KZ68UWG00004238,,,,,https://statsnet.co/search/kz/Альмакс%20тур%20(Almax%20tour),Астана,67,,,2.82
+TK-0330,М-Эдженси,Алматы микр 11 дом 4 оф 115,+7 727 303 1200,930,,,,,https://statsnet.co/search/kz/М-Эдженси,Алматы,67,,,4.12
+TK-0331,GranTurismo,"Павлодар ул. ак. Сатпаева, д. 71, оф. 301",+77768081414,ТА-215 от 12.02.2016,http://www.granturismo.kz,,,,https://statsnet.co/search/kz/GranTurismo,Павлодар,77,,,4.31
+TK-0333,ТОО Алмаз тур,Астана улица Достык 4,+77758889732,KZ20UWG00000640,,,,,https://statsnet.co/search/kz/ТОО%20Алмаз%20тур,Астана,67,,,2.1
+TK-0334,BekTour,"Астана ул. Кравцова 2, 43В",87027300011,KZ96UWG00004801,,,,,https://statsnet.co/search/kz/BekTour,Астана,67,,,2.82
+TK-0335,#traveler,"Караганда пр. Бухар - Жырау 75Г, кабинет 210",87008882727,KZ14UWG00005307,https://www.instagram.com/traveler_kz_/,,,,https://statsnet.co/search/kz/#traveler,Караганда,77,,,1.91
+TK-0336,TRAVEL LIFE,"Астана г. Нур-Султан, р-н Сарыарка, м-н Самал, 11, этаж 2","+7(7172)269055, +7",03-14/22735-И,,,,,https://statsnet.co/search/kz/TRAVEL%20LIFE,Астана,67,,,3.12
+TK-0337,TRAVEL LIFE,"Астана г. Нур-Султан, р-н Сарыарка, м-н Самал, 11, этаж 2","+7(7172)269055, +7",15-08-11/233,,,,,https://statsnet.co/search/kz/TRAVEL%20LIFE,Астана,67,,,2.3
+TK-0338,ТОО АИДА ТРАВЕЛ,Алматы Казыбек Би 117 офис 103,+77788676767,KZ40UWG00004645,,,,,https://statsnet.co/search/kz/ТОО%20АИДА%20ТРАВЕЛ,Алматы,67,,,4.04
+TK-0339,IV Travel ,Алматы Назарбаева 88 офис 12,+7 771 412 33 88,KZ89UWG00006091,https://instagram.com/iv_travel_kz?igshid=YmMyMTA2M2Y=,,,,https://statsnet.co/search/kz/IV%20Travel,Алматы,77,,,3.0
+TK-0340,MarkTravel,"Павлодар ул. Генерала Дуйсенова 106,офис 311",87021125779,KZ73UWG00000268,,,,,https://statsnet.co/search/kz/MarkTravel,Павлодар,67,,,2.5
+TK-0341,ТОО Viva Travel,Актобе ул. 101 стрелковой бригады 5г,+77015528887,0011560,,,,,https://statsnet.co/search/kz/ТОО%20Viva%20Travel,Актобе,67,,,1.7
+TK-0342,ТОО Almatravel2017,"Астана Кунаева 29/1, отель Дипломат, 10 этаж, кабинет 4/1",+77783878380,10100570162508,,,,,https://statsnet.co/search/kz/ТОО%20Almatravel2017,Астана,67,,,3.06
+TK-0343,ABS Travel,"Актобе г.Актобе , ул.Абулхаирхана 67 А",+77081599093,№ KZ30UWQ02460831,https://instagram.com/abs__travel?igshid=NmNmNjAwNzg=,,,,https://statsnet.co/search/kz/ABS%20Travel,Актобе,77,,,1.73
+TK-0344,ITraveller,"Астана Сыганак 54а, БЦ А, офис 803",+7 (707) 282-11-06,KZ17UWQ03950015,http://www.itraveller.kz,,,,https://statsnet.co/search/kz/ITraveller,Астана,77,,,1.79
+TK-0345,TOO SUN LIVE,Алматы Сейфуллина 459 офис 1,+77476687819,KZ13UWG00000960,http://www.sunlive.kz,,,,https://statsnet.co/search/kz/TOO%20SUN%20LIVE,Алматы,77,,,4.41
+TK-0346,NUKA TRAVEL,"Алматы Казыбек би, 51",+77019595999,ТА-289,http://nuka.kz,,,,https://statsnet.co/search/kz/NUKA%20TRAVEL,Алматы,77,,,1.62
+TK-0347, Love travel,Актобе улица Газизы Жубановой 3 Ж,+77017216597,5293,,,,,https://statsnet.co/search/kz/%20Love%20travel,Актобе,67,,,3.08
+TK-0348, TravelBox,"Астана ул.Достык 18, офис 32.8, 3 этаж",+77011362976,KZ30UWG00005795,,,,,https://statsnet.co/search/kz/%20TravelBox,Астана,67,,,3.17
+TK-0349,I’MAX Travel,"Астана ул.Сыганак 54а,701",+77011441154,KZ80UWG00006253,,,,,https://statsnet.co/search/kz/I’MAX%20Travel,Астана,67,,,3.76
+TK-0350,Beautiful tour,"Астана г.Астана, ул.Кумисбекова 3а-63",+77076662039,KZ60UWG00006322,,,,,https://statsnet.co/search/kz/Beautiful%20tour,Астана,67,,,3.62
+TK-0351,Новый Мир,"Астана ул. Алматы 2 , ЖК Торонто, офис 31",+77021095737,ТА-217,http://novyi-mir.kz/,,,,https://statsnet.co/search/kz/Новый%20Мир,Астана,77,,,2.82
+TK-0352,ТОО LION TOUR,"Атырау УЛ. У.МАХАМБЕТА 134А, БЦ ЕВРАЗИЯ 2 ЭТАЖ, 202 ОФИС",+77122303792,10100374294665,,,,,https://statsnet.co/search/kz/ТОО%20LION%20TOUR,Атырау,67,,,3.9
+TK-0353,ONLINE TOUR,"Алматы г.Алматы , ул Сейфуллина 589а , офис 66 ",+77776699511,№ KZ58UWG00005000,http://ONLINETOUR.KZ,,,,https://statsnet.co/search/kz/ONLINE%20TOUR,Алматы,77,,,2.03
+TK-0354,ТОО An Mare Travel,"Астана пр. Женис 72, 1 этаж",+7-(777)-396-06-69,KZ40UWG00005615,https://anmaretravel.kz/,,,,https://statsnet.co/search/kz/ТОО%20An%20Mare%20Travel,Астана,77,,,2.88
+TK-0356,Aidis.Travel,Алматы г Алматы улица Навои 208/6 офис 7,+77477779647,KZ23UWG00005533,https://aidistravel.wixsite.com/my-site-6/home,,,,https://statsnet.co/search/kz/Aidis.Travel,Алматы,77,,,1.98
+TK-0358,ТОО Platinum Travel Kazakhstan,"Алматы РК, г. Алматы, ул. Наурызбай батыра 99/1",+7 (702) 350-80-00,11381-E,,,,,https://statsnet.co/search/kz/ТОО%20Platinum%20Travel%20Kazakhstan,Алматы,67,,,2.98
+TK-0359,ТОО AziraTravel,"Алматы ул Жибек Жолы 50,офис 417/2,БЦ квартал",8 707 6091033,KZ35UWG00006481,,,,,https://statsnet.co/search/kz/ТОО%20AziraTravel,Алматы,67,,,2.21
+TK-0360,TA TRAVEL,Астана ул. Габдулина 17/1 кв 130,+7(701)386-34-38,KZ45UWG00006301,http://@ta_travel_kz,,,,https://statsnet.co/search/kz/TA%20TRAVEL,Астана,77,,,3.73
+TK-0361,D&A travel,Астана ул.Керей Жанибек хандар 14/2,87750456565,KZ51UWG00001149,,,,,https://statsnet.co/search/kz/D&A%20travel,Астана,67,,,3.09
+TK-0362,Туристическое агентство Seruen De,Алматы ул.Құмжарған 7,87088377703,KZ71UWG00006512,http://@seruen_de_tour,,,,https://statsnet.co/search/kz/Туристическое%20агентство%20Seruen%20De,Алматы,77,,,4.32
+TK-0363,Тур. агентство ПаспорТу,"Алматы Казыбек би 65,6 этаж,606 кабинет",7 (702) 503-33-27,KZ18UWQ03630576,http://@pasporty.kz,,,,https://statsnet.co/search/kz/Тур.%20агентство%20ПаспорТу,Алматы,77,,,1.75
+TK-0364,Турагентство РОБИНЗОНТУР,"Алматы г.Алматы, ул. Кунаева дом 49 № 220 ",+7 (727)2735406,ТА-151,,,,,https://statsnet.co/search/kz/Турагентство%20РОБИНЗОНТУР,Алматы,67,,,2.31
+TK-0365,ТОО «DIA TRAVELS»,"Алматы ул. Егизбаева 54Б, офис 23",+77760042864,KZ26UWG00002084,,,,,https://statsnet.co/search/kz/ТОО%20«DIA%20TRAVELS»,Алматы,67,,,1.99
+TK-0366,Турагенство Take Me to Travel,"Астана ул. 38, 27/1-118",87768980211,KZ33UWG00006614,http://takemetotravel.kz,,,,https://statsnet.co/search/kz/Турагенство%20Take%20Me%20to%20Travel,Астана,77,,,3.29
+TK-0367,OrangeTravel.kz,"Астана  ул. Майлина, 19, офис 105, БЦ Таймас",87057558898,KZ50UWG00004368,http://Инстаграмм orangetravel.kz,,,,https://statsnet.co/search/kz/OrangeTravel.kz,Астана,77,,,3.92
+TK-0368,ТОО Кубыла -Трэвел,Астана Косшыгулулы 13/6,7 (707) 592-47-86,KZ05UWG00006245,,,121140012707,https://www.goszakup.gov.kz/ru/registry/show_supplier/436666,https://statsnet.co/search/kz/ТОО%20Кубыла%20-Трэвел,Астана,90,,,3.98
+TK-0369,Турагентство ManGo,Усть-Каменогорск Абая 5/2,87056781326,KZ37UWG00006639,,,,,https://statsnet.co/search/kz/Турагентство%20ManGo,Усть-Каменогорск,67,,,2.06
+TK-0370,ТОО Family Holidays ,Астана Кенесары дом 1 кв 44,+77717739812,10100375498670,,,,,https://statsnet.co/search/kz/ТОО%20Family%20Holidays,Астана,67,,,2.62
+TK-0371,Туристическое агентство Ближе к морю,Кокшетау проспект Н.Назарбаева 65 А кв.2 (офис),+7 (771) 060 73 37,KZ08UWG00003960,http://BLIZHE_K_MORYU_KZ,,,,https://statsnet.co/search/kz/Туристическое%20агентство%20Ближе%20к%20морю,Кокшетау,77,,,4.2
+TK-0372,Туристическое агентство  SAYAtravel,Астана ул. Сыганак 54а,87018031803,KZ86UWG00005466,,,,,https://statsnet.co/search/kz/Туристическое%20агентство%20%20SAYAtravel,Астана,67,,,1.97
+TK-0373,ТОО Azimut Travel,"Алматы  ул. Шевченко 118, угол ул. Байтурсынова. БЦ Алтын Гасыр, 1 этаж, 111 офис.","+77273562826, +770",ТА-2033,http://www.azimut-travel.kz,,130740023288,https://www.goszakup.gov.kz/ru/registry/show_supplier/397344,https://statsnet.co/search/kz/ТОО%20Azimut%20Travel,Алматы,100,,,2.19
+TK-0374,ТОО SULTAN TRAVEL AGENCY ,Алматы Ауэзова 112,+77759206609,10100624425601,,,,,https://statsnet.co/search/kz/ТОО%20SULTAN%20TRAVEL%20AGENCY,Алматы,67,,,1.74
+TK-0375,O2 Travel,Караганда ул.Гоголя 54-103,+77058782266,KZ31UWG00005389,https://www.instagram.com/o2_travels/,,,,https://statsnet.co/search/kz/O2%20Travel,Караганда,77,,,2.43
+TK-0376,Туристское агентство DINAR,Щучинск ул. Едомского 34,87011364776,TA-1747,,740916450036,,https://www.goszakup.gov.kz/ru/registry/show_supplier/233328,https://statsnet.co/search/kz/Туристское%20агентство%20DINAR,Щучинск,90,,,2.6
+TK-0377,Центр образования и туризма BESTKZ,"Костанай Тәуелсіздік 70, 4",87053041562,ТА-242 от 08 апреля 2016г.,http://besttur.kz/,,,,https://statsnet.co/search/kz/Центр%20образования%20и%20туризма%20BESTKZ,Костанай,77,,,2.12
+TK-0378,ТОО DEMalu TURaly,Астана Сарайшык-7,+77027051100,KZ60UWG00001472,,,,,https://statsnet.co/search/kz/ТОО%20DEMalu%20TURaly,Астана,67,,,1.76
+TK-0379,NS.TRAVELS,Алматы Байсерке улица Аркабая 67 ссылка,8706 672 17 07 ,10100626470312,https://ns-travels-kz.nethouse.ru/?fbclid=PAAaY1XUxKtMoGmISZk7_b,,,,https://statsnet.co/search/kz/NS.TRAVELS,Алматы,77,,,3.13
+TK-0380,May Tour,Астана ул. Кокжазык 12 кв 1,87054647575,KZ08UWG00006385,,,,,https://statsnet.co/search/kz/May%20Tour,Астана,67,,,4.01
+TK-0381,TOO Safi travel,"Алматы 050000, Республика Казахстан, г.Алматы, Назарбаева 65., 6 этаж, офис 601 ",+77013636868,KZ04UWG00005487,,,,,https://statsnet.co/search/kz/TOO%20Safi%20travel,Алматы,67,,,2.61
+TK-0382,ИП ASMART,"Кызылорда ул.Роза Багланова, дом 35.",87013996323,KZ49UWG00006132,,910401401074,,https://www.goszakup.gov.kz/ru/registry/show_supplier/335572,https://statsnet.co/search/kz/ИП%20ASMART,Кызылорда,90,,,2.42
+TK-0383,JOLDAS ,"Алматы ул. Кунаева 43, офис 331",87767536009,KZ47UWG00006847,,,180440034112,https://www.goszakup.gov.kz/ru/registry/show_supplier/285361,https://statsnet.co/search/kz/JOLDAS,Алматы,90,,,2.13
+TK-0384,Казтур,Алматы пр Аль Фараби 120/48,+7 727 346 80 82,KZ37UWG00005184,https://kaztour.kz/,,010140004863,https://www.goszakup.gov.kz/ru/registry/show_supplier/551094,https://statsnet.co/search/kz/Казтур,Алматы,100,16.0,5.0,3.8095238095238093
+TK-0385,BBTravel.kz,"Алматы г.Алматы, ул. Ади Шарипова, 91, оф 23",+77009660548,№ KZ69UWG00003347,http://bbtravel.kz,,,,https://statsnet.co/search/kz/BBTravel.kz,Алматы,77,,,3.87
+TK-0386,Агентство Nash Tour,Актау 16мкр 90 дом 150 офис,+77073522944,KZ38TWQ01003215,http://travel.nash_tour_aktau,,,,https://statsnet.co/search/kz/Агентство%20Nash%20Tour,Актау,77,,,4.28
+TK-0387,ТОО Академия Путешествий Sayakhat Academy,Алматы Зенкова 59 офис 137,+77003508030,KZ220001191339,https://touronline.kz,,,,https://statsnet.co/search/kz/ТОО%20Академия%20Путешествий%20Sayakhat%20Academy,Алматы,77,,,1.96
+TK-0388,ИП HOT TRAVEL,"Уральск пр. Абая, 121, офис 1К",+77789515429,KZ14TWQ01011989,,,,,https://statsnet.co/search/kz/ИП%20HOT%20TRAVEL,Уральск,67,,,1.51
+TK-0389,АО «Авиакомпания «SCAT»,"Шымкент Республика Казахстан, г.Шымкент, 160020 Абайский район, микр-н Кызыл Жар, строение 28/4",87252998880,KZ66UWG00004662,https://sundayairlines.kz/,,,,https://statsnet.co/search/kz/АО%20«Авиакомпания%20«SCAT»,Шымкент,77,,,3.72
+TK-0390,Турагентство Unity Express,Алматы пр.Достык 272,+7754499775,KZ94UWG00006001,http://uex.kz,,,,https://statsnet.co/search/kz/Турагентство%20Unity%20Express,Алматы,77,,,3.04
+TK-0391,LIFE TOUR,Павлодар ул.Ак.Сатпаева 29,"8(7182)222040, 8 7",KZ13UWG00007071,https://www.instagram.com/lifetour_pavlodar/,,,,https://statsnet.co/search/kz/LIFE%20TOUR,Павлодар,77,,,2.74
+TK-0392,Airys travel,Алматы Ақсай 3а дом 87 0этаж 5офис,87081113621,KZ34UWG00005723,,,,,https://statsnet.co/search/kz/Airys%20travel,Алматы,67,,,2.98
+TK-0393,Paradise Tour,"Актюбинск ул. Маресьева, д.99, каб.422",+7 (747)505-23-32,KZ64TWQ01991274,,,,,https://statsnet.co/search/kz/Paradise%20Tour,Актюбинск,67,,,4.0
+TK-0394,A&J,Астана Kabaanbay batyra 42,+77774590520,KZ75UWQ00979898,http://anjtravel.tilda.ws,,,,https://statsnet.co/search/kz/A&J,Астана,77,,,3.29
+TK-0395,Nemo Tour,"Алматы РК, 050000, город Алматы, Алмалинский район, улица Досмухамедова, дом 14, кв. 10",+77085793472,KZ67UWG00006390,https://www.instagram.com/nemo_tour.kz/,,,,https://statsnet.co/search/kz/Nemo%20Tour,Алматы,77,,,1.73
+TK-0396,ТОО Salem Travel,"Алматы микрорайон Абай,ул Алтынорда 6/45 2 корпус",+77024870009,KZ25UWG00007146,,,200140026870,https://www.goszakup.gov.kz/ru/registry/show_supplier/684021,https://statsnet.co/search/kz/ТОО%20Salem%20Travel,Алматы,90,,,3.26
+TK-0397,Fine Travel,Семей г. Семей пр. Шакрима 67\1,+77076587131,KZ90UWG00006558,http://@finetravel.kz,,,,https://statsnet.co/search/kz/Fine%20Travel,Семей,77,,,4.26
+TK-0398,ИП ТК ОДИССЕЙ,Караганда пр. Назарбаева 19 оф.2,8 778 944 8101,KZ35UWG00003862,,,,,https://statsnet.co/search/kz/ИП%20ТК%20ОДИССЕЙ,Караганда,67,,,3.05
+TK-0399,Жан-Ель.kz,Алматы Алматы,+7 (707) 537-20-17,KZ68UWG00004044,,,,,https://statsnet.co/search/kz/Жан-Ель.kz,Алматы,67,,,3.47
+TK-0400,ТОО Aydana tour,Астана Сыганак 58,87765335351,KZ89UWG00005606,,,,,https://statsnet.co/search/kz/ТОО%20Aydana%20tour,Астана,67,,,2.97
+TK-0401,iTravels.kz. турагентство,"Алматы г.Алматы, ул.Толе би, 151 (угол ул.Байзакова) ",+77052775922,KZ04UWG00004226,http://www.itravels.kz,,,,https://statsnet.co/search/kz/iTravels.kz.%20турагентство,Алматы,77,,,3.0
+TK-0402,Турагентство ПАСПАРТУ,"Алматы пр.Аль-Фараби 7 к/5а, 3эт., оф.120",+77788888910,№ KZ80TWQ00146337,https://www.instagram.com/paspartu.kz/,,,,https://statsnet.co/search/kz/Турагентство%20ПАСПАРТУ,Алматы,77,,,2.6
+TK-0404,SaparLa Travel,"Астана Юр. адрес: РК, г. Астана, Калдаякова 23А, 30, Офис: Сығанақ 54А, Бизнес центр А, 704 (временно)",+77000957598,№KZ60UWG00002927,,,,,https://statsnet.co/search/kz/SaparLa%20Travel,Астана,67,,,4.03
+TK-0405,Tour Expert,"Алматы ул.Пятницкого дом 50, кв.26",+77771606039,KZ78TWQ01774227,http://tour-expert.kz/,,,,https://statsnet.co/search/kz/Tour%20Expert,Алматы,77,,,3.48
+TK-0406,Bal Voyage ,Астана пр. Мангилик ел 8 офис 206,+7 (777) 001-04-70,KZ23000245081,,,,,https://statsnet.co/search/kz/Bal%20Voyage,Астана,67,,,4.36
+TK-0407,Товарищество с ограниченной ответственностью OPEN TOUR,"Алматы Республика Казахстан, г. Алматы, Алмалинский район, ул. Муканова, д.113, офис 306",87014180185,KZ63UWG00006462,https://opentour.kz/,,,,https://statsnet.co/search/kz/Товарищество%20с%20ограниченной%20ответственностью%20OPEN%20TOUR,Алматы,77,,,3.29
+TK-0408,ТОО GT,Астана Динмухамед Кунаев 35,"+7-775-117-78-83, ",KZ93UWG00004855,http://@globus_travel7,,,,https://statsnet.co/search/kz/ТОО%20GT,Астана,77,,,2.69
+TK-0409,Sacvoyagetur,Астана Беимбет Майлин 2/1,87015127971,KZ48UWQ02759267,,,,,https://statsnet.co/search/kz/Sacvoyagetur,Астана,67,,,3.74
+TK-0410,WestWind,"Астана г. Астана, ул. Сарыарка 1, оф. 24",+77070629252,KZ46UWG00004149,,,,,https://statsnet.co/search/kz/WestWind,Астана,67,,,2.87
+TK-0411,Бюро путешествий Onur Travel KZ,"Уральск Микрорайон Женис, 3, ТРЦ Asia Mall, 1 этаж, офис 113",+7 7112 24 47 02,KZ94UWG00001151,http://onurtravel.kz,,,,https://statsnet.co/search/kz/Бюро%20путешествий%20Onur%20Travel%20KZ,Уральск,77,,,3.16
+TK-0412,Бюро путешествий Onur Travel Shymkent,"Шымкент пр.Байдибек би, 25, ТРК Nauryz Park, 2 этаж",+77773020909,KZ43UWG00006434,http://onurtravel.kz,,,,https://statsnet.co/search/kz/Бюро%20путешествий%20Onur%20Travel%20Shymkent,Шымкент,77,,,2.13
+TK-0413,Бюро путешествий Onur Travel Aktobe,Актобе ул. Оспанова 58-91,+77072024111,KZ76UWG00006519,http://onurtravel.kz,,,,https://statsnet.co/search/kz/Бюро%20путешествий%20Onur%20Travel%20Aktobe,Актобе,77,,,4.09
+TK-0414,ТОО Khalid Travel,Алматы ул.Байзакова 125/185 606 офис,+77714666196,10100640282118,,,,,https://statsnet.co/search/kz/ТОО%20Khalid%20Travel,Алматы,67,,,4.39
+TK-0415,Радуга,Алматы Курмангазы 48А,87000838813,№ KZ35UWG00005220,https://raduga-travel.kz/,,,,https://statsnet.co/search/kz/Радуга,Алматы,77,,,2.25
+TK-0416,Турагентство Полетели с нами,"Актау Мангистауская область, г. Актау, 1 микрорайон, дом №12/1",8 708 671 66 96,KZ53UWG00001598,http://инстаграм @poletelisnamiaktau.kz,,,,https://statsnet.co/search/kz/Турагентство%20Полетели%20с%20нами,Актау,77,,,3.52
+TK-0417,Бюро Вашего Путешествия,Костанай Аль Фараби дом 111 офис 1,8 (7142) 392411  +,KZ37UWG00002662,http://www.bvp.kz,,,,https://statsnet.co/search/kz/Бюро%20Вашего%20Путешествия,Костанай,77,,,1.89
+TK-0418,METRO TRAVEL,"Актау г.Актау, 28мкр, тц Метрополис, 30 офис",+77786073145,KZ45UWG00007562,,,,,https://statsnet.co/search/kz/METRO%20TRAVEL,Актау,67,,,3.13
+TK-0419, Nazar Travel,Кандыагаш Микрорайон Жастық дом 14 кв 13,+77777451080,KZ21UWG00006927,https://www.instagram.com/nazartravel.kz/?hl=ru,,,,https://statsnet.co/search/kz/%20Nazar%20Travel,Кандыагаш,77,,,3.64
+TK-0420,ТОО Ara Travel,Астана г.Астана ул. Уалиханова д.12 кв.132,+77019998857,KZ87UWG00000986,,,,,https://statsnet.co/search/kz/ТОО%20Ara%20Travel,Астана,67,,,4.07
+TK-0421,Чемоданное настроение,"Астана БЦ Алтынорда,офис атриум 2",7 (701) 514-90-34,ТА-1930,,,,,https://statsnet.co/search/kz/Чемоданное%20настроение,Астана,67,,,1.78
+TK-0423,Guide Travel,"Астана Казахстан, город Астана, р-н Алматы, Пр-т Б. Момышұлы, 12б, индекс 010010",+77007779100,KZ34UWG00007372,http://www.gidtravel.kz,,,,https://statsnet.co/search/kz/Guide%20Travel,Астана,77,,,2.41
+TK-0424,Mia Travel,"Алматы ул.Клочкова 66,каб 411,413",+7 (777) 730-02-77,KZ13UWF00000750,,,,,https://statsnet.co/search/kz/Mia%20Travel,Алматы,67,,,3.1
+TK-0425,TOURHOUSE.KZ,Шымкент Казыбек би 51,+77778858885,KZ01UWG00003989,https://tourhouse.kz/,,,,https://statsnet.co/search/kz/TOURHOUSE.KZ,Шымкент,77,,,1.91
+TK-0426,Альдана,Атырау улица Махамбета 107 - 42,87017392433,KZ21UWG00005666,https://aldanatravelturagent.taplink.ws,,,,https://statsnet.co/search/kz/Альдана,Атырау,77,,,2.62
+TK-0427,ARBUZ TOUR,"Астана ул.Иманбаевой, д. 2-29",+77015139430,KZ56UWG00005812,,,,,https://statsnet.co/search/kz/ARBUZ%20TOUR,Астана,67,,,1.53
+TK-0428,Турагентство CHUNGA-CHANGA.PRO,Астана Бейбитшилик 16,+7(701)266-41-28,KZ33UWG00005062,,,,,https://statsnet.co/search/kz/Турагентство%20CHUNGA-CHANGA.PRO,Астана,67,,,2.83
+TK-0429,ТОО GTS Best Travel,Экибастуз Павлодарская область г.Экибастуз ул.Мухтара Ауэзова 21/1 - 65,+77015245071,Справка о государственной регист,,,,,https://statsnet.co/search/kz/ТОО%20GTS%20Best%20Travel,Экибастуз,67,,,1.53
+TK-0430,Pantera Travel,"Костанай мкр-н Юбилейный,дом 6,кв 12",+77081056598,KZ96UWG00005383,https://www.instagram.com/pantera.travel.tour/?ysclid=lgaeshz0zq,,,,https://statsnet.co/search/kz/Pantera%20Travel,Костанай,77,,,3.98
+TK-0431,Vega tours,"Шымкент улица Айбергенова, дом 1, кв.81",+77776017669,ТА-1948,,,,,https://statsnet.co/search/kz/Vega%20tours,Шымкент,67,,,2.91
+TK-0432,Diss Travel,Астана Туран 55,+77477690699,№KZ11UWQ04688099,,,,,https://statsnet.co/search/kz/Diss%20Travel,Астана,67,,,3.4
+TK-0433,SeaView Travel,Астана ул.Букар жырау 36,+7 (777) 293-82-43,KZ26UWG00007419,http://@seaview_travel_kz,,,,https://statsnet.co/search/kz/SeaView%20Travel,Астана,77,,,3.1
+TK-0435,GRAND,Алматы ул. Ауэзова 114,+77757272732,KZ65TWQ02658422,http://www.grandcorp.kz,,,,https://statsnet.co/search/kz/GRAND,Алматы,77,,,2.37
+TK-0436,Lemon Travel,"Атырау Махамбет Утемисова 120а, офис 204",87079210200,KZ26UWG00004606,,,,,https://statsnet.co/search/kz/Lemon%20Travel,Атырау,67,,,2.73
+TK-0437,Leyli Travel,"Тараз г. Тараз, пр.Толе Би 21 ",+77001136400,KZ42UWF00000713,,,,,https://statsnet.co/search/kz/Leyli%20Travel,Тараз,67,,,3.8
+TK-0438,KEREMET-TOUR,"Караганда г.Караганда, пр. Н.Абдирова д 17-118",+77013466436,KZ85UWG00005193,http://keremet-tour.tilda.ws/,,,,https://statsnet.co/search/kz/KEREMET-TOUR,Караганда,77,,,1.66
+TK-0439,GO BIZBEN,"Астана ул.Кордай, 85, нп.21",+7 (776) 335-23-66,KZ87TWG00003558,,,,,https://statsnet.co/search/kz/GO%20BIZBEN,Астана,67,,,2.6
+TK-0440,OCEAN VIEW,Алматы г. Алматы,8701094454,KZ91UWG00006734,,,,,https://statsnet.co/search/kz/OCEAN%20VIEW,Алматы,67,,,3.7
+TK-0441,Altymade Travel,"Алматы Республика Казахстан, г. Алматы, Микрорайон ЖЕТЫСУ-3, дом 24",+77073804421,KZ65UWG00003613,http://altymadetravel.kz,,,,https://statsnet.co/search/kz/Altymade%20Travel,Алматы,77,,,3.04
+TK-0442,Altymade Travel,"Алматы Республика Казахстан, г. Алматы, улица Тулебаева, дом 49/1, офис 280",+77073804421,KZ31UWG00004516,http://altymadetravel.kz,,,,https://statsnet.co/search/kz/Altymade%20Travel,Алматы,77,,,4.18
+TK-0443,ИП Bueno Travel,"Алматы Масанчи 26,офис 212",+77471432529,KZ55UWG00007091,https://buenotravel.kz/,,,,https://statsnet.co/search/kz/ИП%20Bueno%20Travel,Алматы,77,,,2.83
+TK-0444,турагентство Paylesskz,"Актау г.Актау 28 мкр, 47 дом ЖК GRAND AVENUE, офис 7",+77753629677,KZ90UWG00005200,,,,,https://statsnet.co/search/kz/турагентство%20Paylesskz,Актау,67,,,2.03
+TK-0445,Valenciaga travel,Астана Астана. Б.Майлина 13 -507,+77076744446,10100589002375,http:// valenciaga.kz,,,,https://statsnet.co/search/kz/Valenciaga%20travel,Астана,77,,,3.96
+TK-0446,туристическое агентство DRIVE TRAVEL,Кокшетау ул. Абая 93 ТД Номад,+77784740109,KZ77UWQ02383646,https://instagram.com/drive_travel_kz?igshid=YmMyMTA2M2Y=,,,,https://statsnet.co/search/kz/туристическое%20агентство%20DRIVE%20TRAVEL,Кокшетау,77,,,2.7
+TK-0447,Туристическое агентство «Поехали с Нами Темиртау»,"Темиртау г. Темиртау, б. Независимости 25, ТРЦ Аян-Пассаж, офис 234",+77019934168,KZ44UWG00003021,,,,,https://statsnet.co/search/kz/Туристическое%20агентство%20«Поехали%20с%20Нами%20Темиртау»,Темиртау,67,,,4.36
+TK-0448,BAY SHATYR TRAVEL,Астана ул.Жетиген 13,87018378897,KZ87UWG00008164 от 24.04.2023г,http://www.bst01.kz,,,,https://statsnet.co/search/kz/BAY%20SHATYR%20TRAVEL,Астана,77,,,3.63
+TK-0449,Travel KZ,"Алматы г.Алматы, Алмалинский район, ул. Шакарима, дом № 38",+7 (701) 555-67-76,KZ05UWG00007991,,,,,https://statsnet.co/search/kz/Travel%20KZ,Алматы,67,,,1.83
+TK-0450,Destination tour,Алматы Дарабоз 65 кв 83,"+77001012629,+7777",KZ28UWQ04950372,,,,,https://statsnet.co/search/kz/Destination%20tour,Алматы,67,,,1.95
+TK-0451,Luxury Travel,Актау 27 93,+77718452664,KZ27UWG00006916,,,,,https://statsnet.co/search/kz/Luxury%20Travel,Актау,67,,,1.62
+TK-0452,ТОО Premium Teravel Company,Алматы Площадь Республики 13 офис 128,727 2673638,KZ07UWG00008440,http://www.premiumtravel.kz,,,,https://statsnet.co/search/kz/ТОО%20Premium%20Teravel%20Company,Алматы,77,,,1.55
+TK-0456,Mango tour,"Караганда ул.Таттимбета 9, оф.2",+77786394535,KZ31UWQ04618772,https://mangotourkz.com/,,,,https://statsnet.co/search/kz/Mango%20tour,Караганда,77,,,2.76
+TK-0457,Oneberry travel,"Астана г.Астана, район Сарыарка, Көктал, УЛИЦА Дулата  Бабатайулы, дом № 5",8775 750 74 56,KZ48UWG00008478,,,,,https://statsnet.co/search/kz/Oneberry%20travel,Астана,67,,,2.78
+TK-0458,Sunday tours,"Астана ​Улица Керей-Жанибек хандар, 18",87780015155,KZ06UWG00004869,https://sunday.tours/,,,,https://statsnet.co/search/kz/Sunday%20tours,Астана,77,,,1.92
+TK-0459,Ветер Перемен,"Актобе Республика Казахстан, Актюбинская область, Актобе Г.А., г.Актобе, район 7.1 Астана, Шамши Калдаякова, дом № 5Г, н.п 53",+77084710678,№ KZ00UWG00008566,,,,,https://statsnet.co/search/kz/Ветер%20Перемен,Актобе,67,,,3.31
+TK-0460,Эридан тур,Алматы Казыбек би 117 бц Gallianos 702 оф,+77071773183,TA-174 от 23.06.2015,,,,,https://statsnet.co/search/kz/Эридан%20тур,Алматы,67,,,2.8
+TK-0462,Bay Travel,"Алматы ул.Абая 143, БЦ  А-143, офис 112, 1 этаж",7 (707) 822-80-30, №KZ27UWG00005364 ,,,,,https://statsnet.co/search/kz/Bay%20Travel,Алматы,67,,,3.46
+TK-0463,ТУРИСТИЧЕСКОЕ АГЕНТСТВО АЛЕН ТУР,"Темиртау проспект Момышулы, 56/1",+77784966227,KZ91UWQ05302803,,,,,https://statsnet.co/search/kz/ТУРИСТИЧЕСКОЕ%20АГЕНТСТВО%20АЛЕН%20ТУР,Темиртау,67,,,4.49
+TK-0464,Travel Territory,Алматы 9 микрорайон 34 дом,+77471845000,KZ91UWG00007898,,,,,https://statsnet.co/search/kz/Travel%20Territory,Алматы,67,,,2.6
+TK-0465,TOO  Imani travel,Алматы Нурлы жол 16,+7 (701) 260-20-02,KZ03UWG00005117,,,,,https://statsnet.co/search/kz/TOO%20%20Imani%20travel,Алматы,67,,,3.54
+TK-0466,GOLDEN HIPPO TRAVEL,Актобе Пр. Молдагуловой 11в офис 127,+77013247031 +7700,KZ68UWG00004141,,,,,https://statsnet.co/search/kz/GOLDEN%20HIPPO%20TRAVEL,Актобе,67,,,4.12
+TK-0469,LILO TOUR,Алматы Аль-Фараби 47,+77011272727,KZ02UWG00004456,http://lilotour.kz,,,,https://statsnet.co/search/kz/LILO%20TOUR,Алматы,77,,,1.65
+TK-0470,Oceanlove_travel,"Алматы Тимирязева 15Б, 512 офис",87776100326,KZ03UWG00009094,,,,,https://statsnet.co/search/kz/Oceanlove_travel,Алматы,67,,,2.74
+TK-0471,cluster.tours.kz,Алматы Грозы ,+7(701)988-44-00,10100618476950,,,,,https://statsnet.co/search/kz/cluster.tours.kz,Алматы,67,,,2.6
+TK-0472,ZEN TOUR,"Алматы г. Алматы, ул. Кенесары Хана, 54/24, корпус 1, кв. 9",+77018181700,KZ32UWG00008766,https://www.instagram.com/zentour.kz/,,,,https://statsnet.co/search/kz/ZEN%20TOUR,Алматы,77,,,2.59
+TK-0473,PANDORA TRAVEL,Экибастуз ул.Машхур Жусупа 85,+77053216528  +777,KZ10TWQ02224852,,,,,https://statsnet.co/search/kz/PANDORA%20TRAVEL,Экибастуз,67,,,2.6
+TK-0474,RIA TRAVEL,"Алматы г. Алматы, Бостандыксий район, ул. Байзакова, дом 303, 108 офис.",+77019474500,KZ35UWG00004832,,,,,https://statsnet.co/search/kz/RIA%20TRAVEL,Алматы,67,,,4.38
+TK-0475,Instatour.kz,Алматы ул Мамбетова 8/1 ,+77017377191,KZ88UWG00007176,,,,,https://statsnet.co/search/kz/Instatour.kz,Алматы,67,,,3.93
+TK-0476,JB Travel,"Астана г. Астана, ул. Сарайшык, 7А-26 ",+77029999685,KZ23UWG00001362,https://jb-travel.com/,,,,https://statsnet.co/search/kz/JB%20Travel,Астана,77,,,4.17
+TK-0477, JBT Premium,"Астана пр. Кабанбай батыра, д.7/3, НП 5",+77172571418,KZ91UWG00005958,https://jb-travel.com/,,,,https://statsnet.co/search/kz/%20JBT%20Premium,Астана,77,,,1.75
+TK-0478,ТОО LOVE TOUR KZ,"Семей БЦ FOREST, ул. Абая, 70, офис №6",+77058618014,KZ91UWG00009256,,,,,https://statsnet.co/search/kz/ТОО%20LOVE%20TOUR%20KZ,Семей,67,,,1.87
+TK-0479,OCEANLOVEALMATY,"Алматы ул. Тимирязева 15Б, офис 512, этаж 5",+77772577555,KZ31UWG00009075,,,,,https://statsnet.co/search/kz/OCEANLOVEALMATY,Алматы,67,,,2.53
+TK-0481,SLTRAVEL ASTANA ,"Астана Абая 59/1, офис 12",87012551421,TA-512 N0086837,https://t.me/sltravelastana,,,,https://statsnet.co/search/kz/SLTRAVEL%20ASTANA,Астана,77,,,3.64
+TK-0484,Markettours.kz - магазин туров,"Алматы мик-он 9, до 49",+7 702 500 5000,Уведомление № KZ06UWG00008555,https://markettours.kz,,,,https://statsnet.co/search/kz/Markettours.kz%20-%20магазин%20туров,Алматы,77,,,4.02
+TK-0485,ТОО Lady Travel,"Астана г.Астана, пр.Республики 32, офис 610",77015317621,№ KZ55UWG00007188,,,,,https://statsnet.co/search/kz/ТОО%20Lady%20Travel,Астана,67,,,2.28
+TK-0486,Sharlike tour,"Алматы Казахстан, город Алматы, Алмалинский район, улица Толе би, дом 273/11, кв. 7",+7 775 567 3774,KZ30UWG00006280,,,,,https://statsnet.co/search/kz/Sharlike%20tour,Алматы,67,,,2.06
+TK-0487,ТОО Жанар-Тревел,Астана Мангилик Ел 30,+77012991595,101000018571455,,,,,https://statsnet.co/search/kz/ТОО%20Жанар-Тревел,Астана,67,,,3.63
+TK-0488,ТОО Салон Горящих Путевок Астана,Астана пр.Улы Дала 3/3 НП-6,7789620727,KZ86UWG00006436,,,,,https://statsnet.co/search/kz/ТОО%20Салон%20Горящих%20Путевок%20Астана,Астана,67,,,2.28
+TK-0489,INZHU TOUR,Астана ул. Гейдар Алиева 10,+77020073723,KZ93UWG00007086,,,,,https://statsnet.co/search/kz/INZHU%20TOUR,Астана,67,,,1.51
+TK-0490,Клевер Тур,Уральск пр. Назарбаева 206/2,8 (701) 543 7509,KZ28TWQ02890627,http://clovertour.kz,,,,https://statsnet.co/search/kz/Клевер%20Тур,Уральск,77,,,2.66
+TK-0491,ТОО Effect Travel ,"Алматы проспект Назарбаева, 120, подъезд 1. офис 2 ",+77783979333,10100363240723,,,,,https://statsnet.co/search/kz/ТОО%20Effect%20Travel,Алматы,67,,,3.41
+TK-0492,VIAGGIO,"Алматы ул. Новгородская 172/2, офис 407",+77781777010,101000018040742,,,180540035799,https://www.goszakup.gov.kz/ru/registry/show_supplier/381639,https://statsnet.co/search/kz/VIAGGIO,Алматы,90,,,3.36
+TK-0493,DREAM TOUR,"Актобе г.Актобе, ул.Абулхайыр-хана 44 /3, каб. 9",8-776-922-4080,KZ10UWQ04212623,,010913501046,,https://www.goszakup.gov.kz/ru/registry/show_supplier/572776,https://statsnet.co/search/kz/DREAM%20TOUR,Актобе,90,,,3.85
+TK-0494,ИП ACE Travel Kz,"Актобе 030000 г. Актобе, ул. Баишева 7А",+77012699269,KZ80UWQ04048209,https://www.instagram.com/ace_travel_kz/,,,,https://statsnet.co/search/kz/ИП%20ACE%20Travel%20Kz,Актобе,77,,,1.87
+TK-0495,World Trip,Уральск улица Сундеткали Ескалиева 177,+7 775 711 8800,Уведомление № KZ04UWG00005972,,,,,https://statsnet.co/search/kz/World%20Trip,Уральск,67,,,1.52
+TK-0496,Emotion. Business&Travel Kazakhstan,"Алматы Назарбаева 120, 1 подъезд, 1 этаж, офис 2",+77783979333,KZ30UWG00003661,https://www.facebook.com/p/EmotionBusiness-Travel-10006777025004,,,,https://statsnet.co/search/kz/Emotion.%20Business&Travel%20Kazakhstan,Алматы,77,,,2.34
+TK-0497,Pantheon tour,"Алматы Сатпаева 90/1, 209",87074229580,10100645993236,,,,,https://statsnet.co/search/kz/Pantheon%20tour,Алматы,67,,,1.99
+TK-0498,VELES 2015,"Костанай 110000 РК., Костанайская обл., г. Костанай, ул.Карбышева , дом 2 офис 336",87772763858,KZ03UWG00000170,,,,,https://statsnet.co/search/kz/VELES%202015,Костанай,67,,,1.77
+TK-0499,ИП Диас (Sattravel),"Алматы Мкр. Жас канат, дом № 1/35, 3",+7 775 695 0913,KZ82TWQ01881922,http:// @sattravelkz,,,,https://statsnet.co/search/kz/ИП%20Диас%20(Sattravel),Алматы,77,,,3.08
+TK-0500,Tour club Almaty,"Алматы г. Алматы, ул. Маметовой 12/21",+77053330583,109253-1910-ТОО от 13.04.2011,,,,,https://statsnet.co/search/kz/Tour%20club%20Almaty,Алматы,67,,,1.9
+TK-0501,TOO ADI TRAVEL,"Алматы Факт. Адрес БЦ Сатти, Сатпаева 29Д, офис 111, 1 этаж ",+77078232320,86739-1910-TOO ,,,,,https://statsnet.co/search/kz/TOO%20ADI%20TRAVEL,Алматы,67,,,4.35
+TK-0502,OCEAN LOVE ALL,"Шымкент г.Шымкент, Сасбукаева, дом № 118",+7(777)884-55-00,KZ17UWG00009133,http://oceanlove.kz,,,,https://statsnet.co/search/kz/OCEAN%20LOVE%20ALL,Шымкент,77,,,2.7
+TK-0503,Elita Travel Kazakhstan ,Алматы Сатпаева 29д оф 107,87017343637,KZ30UWG00000751,,,,,https://statsnet.co/search/kz/Elita%20Travel%20Kazakhstan,Алматы,67,,,4.39
+TK-0504,Fiesta Almaty ,Алматы Сатпаева 29Д,+77019265030,№ KZ95UWG00001909,http://fiesta.travel.kz,,,,https://statsnet.co/search/kz/Fiesta%20Almaty,Алматы,77,,,3.59
+TK-0505,Богиня Travel,Алматы Рымжанова 35,+7 702 507 77 77,KZ23UWG00005824,,,,,https://statsnet.co/search/kz/Богиня%20Travel,Алматы,67,,,2.57
+TK-0506,TOUR LOVE,Алматы Тимирязев көшесі,+7 (707) 262-90-10,KZ18UWG00009115,,,,,https://statsnet.co/search/kz/TOUR%20LOVE,Алматы,67,,,3.11
+TK-0507,Саяхат ,Шымкент Айбергенова 3/1,+77757998014,KZ38UWG00002644,,,,,https://statsnet.co/search/kz/Саяхат,Шымкент,67,,,3.14
+TK-0509,VS-Travel,"Шымкент 18 мкр, д 24 оф 2",+77077545732,KZ57UWG00003466,,,,,https://statsnet.co/search/kz/VS-Travel,Шымкент,67,,,3.97
+TK-0510,Armanda Travels,Астана ул. Сыганак 54,+7(771)000-90-90,KZ29UWG00009499,https://instagram.com/armanda_travels?igshid=MmVlMjlkMTBhMg==&ut,,,,https://statsnet.co/search/kz/Armanda%20Travels,Астана,77,,,2.9
+TK-0511,ТОО ДиЗи Тревел,"Алматы Самал-2, 33а, 167",+77019392425,№ KZ70UWG00009828,,,,,https://statsnet.co/search/kz/ТОО%20ДиЗи%20Тревел,Алматы,67,,,1.69
+TK-0512,ИП KING COMPANY,"Алматы Суюнбая 292Д,16, 2 этаж",+77078266533,KZ09UWG00005106,http://king-company.satu.kz,,,,https://statsnet.co/search/kz/ИП%20KING%20COMPANY,Алматы,77,,,3.69
+TK-0513,ТОО Your Travel Agent,"Алматы Желтоксан, 104/76, офис 22",+77010711842,№ KZ74UWG00009950,http://www.yta.kz,,,,https://statsnet.co/search/kz/ТОО%20Your%20Travel%20Agent,Алматы,77,,,3.96
+TK-0514,AriyanaTours,Астана Кошкарбаева 29 ,+77761425015,KZ72UWG00008337,https://www.instagram.com/ariyanatours/?hl=ru,,,,https://statsnet.co/search/kz/AriyanaTours,Астана,77,,,3.39
+TK-0515,Life travel,Рудный Парковая 116 ,+77057461472,KZ29UWG00004164,,,,,https://statsnet.co/search/kz/Life%20travel,Рудный,67,,,2.21
+TK-0516,Богиня Travel,Алматы Рымжанова 35,+7 702 507 77 77,KZ27TWQ02669970,,,,,https://statsnet.co/search/kz/Богиня%20Travel,Алматы,67,,,3.5
+TK-0517,ИП Fortuna Tour Almaty Аксенова Т.В.,"Алматы г. Алматы , 050060, Богенбай Батыра, 148/92, 201",87015567774,KZ11TWQ00887883 ,,,,,https://statsnet.co/search/kz/ИП%20Fortuna%20Tour%20Almaty%20Аксенова%20Т.В.,Алматы,67,,,3.87
+TK-0519,Турагентство Пятница,"Алматы Казыбек би 50, оф. 126",+77770438146,KZ91UWG00009838,,,,,https://statsnet.co/search/kz/Турагентство%20Пятница,Алматы,67,,,4.47
+TK-0520,ONLY SUN TRAVEL,Астана пр. Туран 59/2,+7-777-347-47-07,KZ02UWG00007269,http://www.onlysuntravel.kz,,,,https://statsnet.co/search/kz/ONLY%20SUN%20TRAVEL,Астана,77,,,2.46
+TK-0521,ИП ERCAN-TOUR,"Алматы Туркебаева, дом 61",87027158455,№ KZ71UWQ04570716 ,,,,,https://statsnet.co/search/kz/ИП%20ERCAN-TOUR,Алматы,67,,,2.75
+TK-0522,Alau Travel,"Астана ул.Алихан Бокейхан 28, н.п.7",+7(705)456-75-23,KZ61UWG00004752,http://@alau_travel,,,,https://statsnet.co/search/kz/Alau%20Travel,Астана,77,,,1.52
+TK-0523,ТОО АЙТУАР ТУР,"Алматы Бостандыкский район, улица Байтурсынулы дом 113, офис 14",7 (701) 808-74-74,KZ79UWG00005592,https://instagram.com/aituar_tour?igshid=YTQwZjQ0NmI0OA==,,,,https://statsnet.co/search/kz/ТОО%20АЙТУАР%20ТУР,Алматы,77,,,3.2
+TK-0524,Omar Tour ,Астана Алихан бокейхана 28 48,7769061122,Z1201296,https://instagram.com/omartour.kz,,,,https://statsnet.co/search/kz/Omar%20Tour,Астана,77,,,3.12
+TK-0525,ИП SATI TRAVEL,"Актобе г.Актобе ,Абулхайыр хана 2,113 ",87472167964,No KZ42UWG00009556,https://instagram.com/sati__travel?igshid=MmVlMjlkMTBhMg==,,,,https://statsnet.co/search/kz/ИП%20SATI%20TRAVEL,Актобе,77,,,2.43
+TK-0526,Emerald tours kz,"Алматы Казахстан, Алматы, Проспект Аль-Фараби, дом 63/17, кв/офис 14",+77012061015,KZ45UWG00009211,,,,,https://statsnet.co/search/kz/Emerald%20tours%20kz,Алматы,67,,,2.43
+TK-0527,Premium Vacation,"Уральск проспект Абая 61 , 3 этаж , 1 офис",+77076778135,957-1926-01-ТОО /ИУ/,,,,,https://statsnet.co/search/kz/Premium%20Vacation,Уральск,67,,,4.07
+TK-0528,ТОО Меральбест,"Алматы РК, г.Алматы, мкр8, дом 4А",+7 (776) 274 06 17,KZ87UWG00007582,,,,,https://statsnet.co/search/kz/ТОО%20Меральбест,Алматы,67,,,2.48
+TK-0530,NUR TRAVEL ,Актобе Абылхаир хана 2 офис 113,8 705 480 3634,KZ88UWG00009116,,,,,https://statsnet.co/search/kz/NUR%20TRAVEL,Актобе,67,,,3.44
+TK-0531,BJTRAVEL,Зайсан Шанина 1,+77021502359   +77,KZ02UWG00008433,,,,,https://statsnet.co/search/kz/BJTRAVEL,Зайсан,67,,,2.42
+TK-0532,Minerat travel ,Астана Пр.мангилик ел 8,7(708)272-74-77,KZ74UWG00007622,https://minerattravel.kz/,,,,https://statsnet.co/search/kz/Minerat%20travel,Астана,77,,,1.85
+TK-0533,Step2Travel,"Алматы Тулебаева 49/1 , офис 283",+77078655232,10100674550575,,,,,https://statsnet.co/search/kz/Step2Travel,Алматы,67,,,4.42
+TK-0534,OCEAN LOVE KZ,"Астана Проспект Кабанбай батыр 58А, НП 5",8 (778) 102-46-73,KZ64UWG00009063,http://www.oceanlove.kz/,,,,https://statsnet.co/search/kz/OCEAN%20LOVE%20KZ,Астана,77,,,3.99
+TK-0535,САМОЛЕТ,"Алматы ул.Шугыла, зд.15",+77075349330,KZ01UWG00008839,https://charters.kz/,,,,https://statsnet.co/search/kz/САМОЛЕТ,Алматы,77,,,4.13
+TK-0536,DI TRAVELS,"Алматы г. Алматы, пр. Аль-Фараби 21, кв.138",+7 (701) 479-22-22,KZ70UWG00007403,,,,,https://statsnet.co/search/kz/DI%20TRAVELS,Алматы,67,,,3.73
+TK-0537,Lion Tour,"Атырау Ул Махамбет Утемисова 134а,БЦ Евразия,202 кабинет",+77015881090,KZ75UWQ04581605,https://www.instagram.com/liontour20?igsh=MXV5eGZjcXZ1YzYwaA==,,,,https://statsnet.co/search/kz/Lion%20Tour,Атырау,77,,,4.42
+TK-0538,ТОО V.I.P. TOUR KZ,Актобе Улица Бр. Жубановых 278А-8 каб.,+77017473567,KZ18UWG00006787,,,,,https://statsnet.co/search/kz/ТОО%20V.I.P.%20TOUR%20KZ,Актобе,67,,,4.09
+TK-0539,Ailin Travel ,"Степногорск Акмолинская область, г Степногорск, 7-43/3-1",+7 (771) 899-84-98,KZ85UWG00009267,,,,,https://statsnet.co/search/kz/Ailin%20Travel,Степногорск,67,,,2.33
+TK-0540,Турагентство Lucky Tour,"Астана г. Астана, пр.Сарыарка, 17, офис 16",+77083333331,KZ79UWG00009472,https://www.instagram.com/luckytour.kz?igsh=Ym10ZTRzdXA5OWZh&utm,,,,https://statsnet.co/search/kz/Турагентство%20Lucky%20Tour,Астана,77,,,3.38
+TK-0541,SUNMARI,"Алматы г.Алматы,Суюнюбая 97 ",+77057289999,KZ84UWG00009770,http://sunmari.kz,,,,https://statsnet.co/search/kz/SUNMARI,Алматы,77,,,2.05
+TK-0542,TOO Mira Tour,"Алматы Чайковского 22,305",+77073888083,TA-224,,,,,https://statsnet.co/search/kz/TOO%20Mira%20Tour,Алматы,67,,,2.1
+TK-0543,YouTrip,"Алматы г. Алматы, Бостандыксий район, ул. Аль-Фараби 5/2",+77018068924,KZ69UWG00010331,https://www.instagram.com/youtrip.kz?igsh=MXBqZHhyZmhrbXJzeg==,,,,https://statsnet.co/search/kz/YouTrip,Алматы,77,,,2.72
+TK-0544,Supertour.kz,"Алматы Казахстан, г. Алматы, улица Егизбаева, 7/9",+77751283000,KZ62UWG00004734,http://supertour.kz,,,,https://statsnet.co/search/kz/Supertour.kz,Алматы,77,,,3.19
+TK-0545,LIMPOPO TRAVEL,Усть-Каменогорск Кабанбай батыра 164,+77772238163,KZ78UWG00006289,http://www.limpopotravel.kz,,,,https://statsnet.co/search/kz/LIMPOPO%20TRAVEL,Усть-Каменогорск,77,,,2.73
+TK-0546,Aylin Travel,"Актобе г.Актобе, ул.Мангилик Ел 22",+77053981878,KZ30UWG00010160,,,,,https://statsnet.co/search/kz/Aylin%20Travel,Актобе,67,,,3.72
+TK-0547,Турагентство TAITI,Усть-Каменогорск улица К.Кайсенова 30А,+77778499355,KZ35UWG00003474,https://taiti-online.ru/,,,,https://statsnet.co/search/kz/Турагентство%20TAITI,Усть-Каменогорск,77,,,3.62
+TK-0549,ТОО Азия VIP tour,"Алматы Байсеитовой, 36",+7 (701) 647-69-41,10100687252842,,,,,https://statsnet.co/search/kz/ТОО%20Азия%20VIP%20tour,Алматы,67,,,4.4
+TK-0550,AilanDTour,Караганда г.Караганда пр.Шахтеров д 36/2 кв 55,+77028504433,KZ14UWQ05872900,https://www.instagram.com/ailandtour?igsh=MWNxYXRqNGxheDNwbw==,,,,https://statsnet.co/search/kz/AilanDTour,Караганда,77,,,3.74
+TK-0551,ТОО Classic Travel Plus,"Алматы 050009,проспект Абая 76/109, офис 319",+7 727 327 76 70; ,ТА-223,,,,,https://statsnet.co/search/kz/ТОО%20Classic%20Travel%20Plus,Алматы,67,,,1.89
+TK-0552,Саяхат Алеми Астана,"Астана E652, 12, off 10",+77761016161,Z1201240,http://sayahat-alemi.kz,,,,https://statsnet.co/search/kz/Саяхат%20Алеми%20Астана,Астана,77,,,2.04
+TK-0553,Discover Jetisu,"Алматы Байтурсынова 129, кв 6",+77766111069,KZ61UWG00006498,,,,,https://statsnet.co/search/kz/Discover%20Jetisu,Алматы,67,,,3.54
+TK-0554,PALMA-TOUR,Караганда 19 микрорайон дом 40 А,+77212325844,KZ81UWG00003228,http://palma-tour.kz,,,,https://statsnet.co/search/kz/PALMA-TOUR,Караганда,77,,,2.93
+TK-0555,Familytravel2017,"Костанай г. Костанай, улица Каирбекова 369/1 оф.47",+77478050917,Уведомление № KZ00UWG00004686 о ,http://Инстаграмм @familytravel2017,,,,https://statsnet.co/search/kz/Familytravel2017,Костанай,77,,,4.01
+TK-0556,Сәтті,"Астана Республика Казахстан, г.Астана,  район Байқоңыр, ул.Иманова,16  кв.7",+77772991015,KZ230004589622,https://sattitravel.kz/,,,,https://statsnet.co/search/kz/Сәтті,Астана,77,,,2.5
+TK-0557,PROTRAVEL,Павлодар улица Бухар жырау 4/1 офис 35,+7 747 257 04 55,KZ70UWQ05288437,,,,,https://statsnet.co/search/kz/PROTRAVEL,Павлодар,67,,,3.63
+TK-0558,ENERGY TRAVEL,"Алматы г. Алматы, ул. Сатпаева 90/22, офис 2 ",+77021171825,KZ58TWQ01300354,http://www.energytravel.kz,,,,https://statsnet.co/search/kz/ENERGY%20TRAVEL,Алматы,77,,,1.69
+TK-0559,Лазурный берег,"Астана Шынгыстау,17/2",+77016460163,TA-363,,,,,https://statsnet.co/search/kz/Лазурный%20берег,Астана,67,,,2.36
+TK-0560,Royal Travel Service,Алматы Алматы,+77072640555,KZ77UWG00001069,,,,,https://statsnet.co/search/kz/Royal%20Travel%20Service,Алматы,67,,,3.98
+TK-0561,Personal Travel Concierge,Алматы ЖК Ботанический сад 5-3,+77014436677,KZ39UWG00009901,,,,,https://statsnet.co/search/kz/Personal%20Travel%20Concierge,Алматы,67,,,2.95
+TK-0562,Туристическое агентство 5 Континентов,Уральск пр-т Абая 117,+77778637300,KZ29UWG00010469,https://5k.kz,,,,https://statsnet.co/search/kz/Туристическое%20агентство%205%20Континентов,Уральск,77,,,3.49
+TK-0563,Престиж-тур ,Тараз ул. Ниеткалиева 5 ,+77007311874,KZ74UWG00009271,,,,,https://statsnet.co/search/kz/Престиж-тур,Тараз,67,,,2.15
+TK-0564,Турагентство Олимп Экспресс,Павлодар ул. Лермонтова 45/1 офис 24К,+770566167 71,TA 0003 N0026268,,,,,https://statsnet.co/search/kz/Турагентство%20Олимп%20Экспресс,Павлодар,67,,,4.24
+TK-0565,ElSara,"Астана Улица Достық 20, 19 этаж, офис 1903",+7 771 929 1010,KZ40UWG00009592,https://www.instagram.com/elsara.travel?igsh=ZHBwcDBxcGM3ejEz ,,,,https://statsnet.co/search/kz/ElSara,Астана,77,,,4.33
+TK-0566,Travia.kz,"Алматы Байтурсынова, 95",+77012255666,KZ82UWG00009418,,,,,https://statsnet.co/search/kz/Travia.kz,Алматы,67,,,2.71
+TK-0567,Kaz Travel Almaty,Алматы микрорайон 4 дом 10 а Тд Тигрохауд 1 этаж 12 бутик,87022916040,1010059876542,https://kaztravelalmaty.site.pro/,,,,https://statsnet.co/search/kz/Kaz%20Travel%20Almaty,Алматы,77,,,2.07
+TK-0568,ENIGMA TRAVEL,Алматы ул.Столетова 13 /64,+77077787728,KZ72UWG00009598,http://enigma-travel.kz/?i=1,,,,https://statsnet.co/search/kz/ENIGMA%20TRAVEL,Алматы,77,,,2.44
+TK-0569,Dara Tour,"Астана Район Байконыр, улица Кенесары дом 70А, 206",87781706916,KZ58TWQ01717648,,,,,https://statsnet.co/search/kz/Dara%20Tour,Астана,67,,,4.44
+TK-0570,Joy easy trip,"Алматы ул. Егизбаева 13, 2 этаж, 205 кабинет",+7 702 407 47 70,10100687701752,,,,,https://statsnet.co/search/kz/Joy%20easy%20trip,Алматы,67,,,3.36
+TK-0572,Exclusive Travel,"Актау г.Актау, мкр. 12а, 12, БЦ Aktas, 1 этаж, офис 106.",+77023739363,KZ76UWQ05682634,https://www.instagram.com/invites/contact/?i=9ye023oeaepk&utm_co,,,,https://statsnet.co/search/kz/Exclusive%20Travel,Актау,77,,,2.05
+TK-0573,Leah Tour,"Костанай г.Костанай, ул.Лермонтова, 26, офис 306",+7 (705) 130 53 88,KZ95UWG00006953,,,,,https://statsnet.co/search/kz/Leah%20Tour,Костанай,67,,,2.08
+TK-0574,ТОО ТК Лукоморье,"Семей ул. Тельмана Уранхаева, 65, нп 11",77055106826,KZ81UWG00010600,,,,,https://statsnet.co/search/kz/ТОО%20ТК%20Лукоморье,Семей,67,,,4.35
+TK-0575,Поехали с нами,"Алматы г. Алматы, ул. Курмангалиева 35",+77005090159,KZ18UWG00009600,http://poehalisnami.kz,,,,https://statsnet.co/search/kz/Поехали%20с%20нами,Алматы,77,,,1.81
+TK-0578,Muslim Travel,"Алматы Сейфуллина 51/3, кв 54",87021396006,KZ61UWG00009214,,,,,https://statsnet.co/search/kz/Muslim%20Travel,Алматы,67,,,3.12
+TK-0580,ТОО Ola Travel,Астана Кабанбай Батыра 49а,87019693333,101000020351372,http://olatravel.astana ,,,,https://statsnet.co/search/kz/ТОО%20Ola%20Travel,Астана,77,,,3.59
+TK-0581,Solncetur,"Алматы Казахстан, г. Алматы, Турксибский район, ул. Международная, д. 73, кв. 3, 050037",+7(771)949-90-88,KZ79UWG00007435,"http://www.solncetur.ru, www.solncetur.kz",,,,https://statsnet.co/search/kz/Solncetur,Алматы,77,,,3.91
+TK-0582,Туристическое агенство San Remo Travel,"Астана РК, г. Астана, ул. Куйши Дина, д. 28, кв. 294",77017775327,KZ81UWG00007981,,,,,https://statsnet.co/search/kz/Туристическое%20агенство%20San%20Remo%20Travel,Астана,67,,,1.51
+TK-0584,Saniya Tour,Шымкент мкр Акжайык 597/1,87021355745,KZ22UWG00006230,,,,,https://statsnet.co/search/kz/Saniya%20Tour,Шымкент,67,,,2.28
+TK-0585,ViWay Travel,"Алматы  СУЛЕЙМЕНОВА, дом № 24А, 142",+77759553502,KZ12UWG00002336,https://www.instagram.com/viwaytravel/,,,,https://statsnet.co/search/kz/ViWay%20Travel,Алматы,77,,,2.27
+TK-0587,ТОО Bil Tour,Алматы Кенесары хана 54/20 в22,+7 (777) 391 01 61,10100645618514,,,,,https://statsnet.co/search/kz/ТОО%20Bil%20Tour,Алматы,67,,,3.93
+TK-0588,My Soul Travel,Алматы Жарокова 283,87017385538,KZ19UWQ05637488,,,,,https://statsnet.co/search/kz/My%20Soul%20Travel,Алматы,67,,,2.94
+TK-0590,SunNova Tour,"Алматы пр.Сейфуллина 410, офис 530",+77051391717,KZ31UWG00005777,http:// ,,,,https://statsnet.co/search/kz/SunNova%20Tour,Алматы,77,,,2.96
+TK-0591,Kaztour premium,"Алматы Алматы, Аль Фараби 120/48",87014712464,101000042310662,,,,,https://statsnet.co/search/kz/Kaztour%20premium,Алматы,67,,,1.6
+TK-0594,Giraffe Travel,"Шымкент город Шымкент, проспект Бейбитшилик, д. 24А, оф. 35",+77019835354,KZ17UWG00001082,https://www.instagram.com/giraffe.travel/,,,,https://statsnet.co/search/kz/Giraffe%20Travel,Шымкент,77,,,2.09
+TK-0595,ТОО Travel Partners,"Алматы Наурызбай батыра 127, блок 2, н.п. 612",+77777665011,KZ49UWG00003901,http://travelpartners.kz,,,,https://statsnet.co/search/kz/ТОО%20Travel%20Partners,Алматы,77,,,2.73
+TK-0597,Турагентство Family Tour,Рудный Качарская 31-46,87052919688,N1201307,,,,,https://statsnet.co/search/kz/Турагентство%20Family%20Tour,Рудный,67,,,4.28
+TK-0598,Туристическая агенства,Астана Астана . Бауыржан Момышулы 2В,87070607777,KZ76UWG00009623,,,,,https://statsnet.co/search/kz/Туристическая%20агенства,Астана,67,,,3.66
