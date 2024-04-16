@@ -3,7 +3,7 @@ pandas
 numpy
 streamlit
 matplotlib
-huggingface_hub
 BeautifulSoup4
 requests
 selenium
+openai
