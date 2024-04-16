@@ -76,10 +76,7 @@ search_button = st.button("🔍 Search")
 if search_button:
     st.subheader("Search Results")
     try:
-        tour_prompt = ""
-        if len(st.session_state.messages):
-            tour_prompt = convert_dataframe_to_prompt(tour_agents_df, "Tour Agents")
-            tour_prompt += convert_dataframe_to_prompt(tour_operators_df, "Tour Operators")
+        tour_prompt = convert_dataframe_to_prompt(tour_agents_df[:50], "Tour Agents")
         response = generate_gpt4_response(search_query + tour_prompt, st.secrets["OPENAI_API"])
         st.markdown(response)
 
@@ -159,4 +156,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
