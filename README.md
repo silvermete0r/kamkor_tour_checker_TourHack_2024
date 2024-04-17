@@ -1,5 +1,5 @@
 # Kamkor TourChecker
-*Kamkor Hour Checker is a system for automatic analysis and evaluation of the reliability of travel agencies in Kazakhstan based on the Kamkor tourism Fund with the support of an AI search engine based on the database.*
+*Kamkor Tour Checker is a system for automatic analysis and evaluation of the reliability of travel agencies in Kazakhstan based on the Kamkor tourism with the support of an AI search engine based on the database.*
 
 **🖥️ Hackathon:** Travel Hack 2024 Winners 🏆 ~ [Linkedin Post]()
 
